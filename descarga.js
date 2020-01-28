@@ -58,7 +58,7 @@ famImagenes.forEach(i  => {
 
 setTimeout(() => {
   console.log(
-    'Número de imagenes guardas igual a ingresadas:  ',
+    'Número de imagenes guardadas igual a ingresadas:  ',
     totalImagenesGuardadas === totalImagenesIngresadas ? chalk.bgGreen('Cierto') : chalk.bgRed('Falso')
   )
   validaExistenciaImagenes(imagenesGuardadas)
