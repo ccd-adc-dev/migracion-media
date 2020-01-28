@@ -1,0 +1,1757 @@
+[{
+  "id": "algica",
+  "audios": []
+}, {
+  "id": "yutonahua",
+  "audios": [
+    {
+    "id": "inali/audios/yutonahua/pima/FN16040044800_14.ogg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526084/inali/audios/yutonahua/pima/FN16040044800_14.ogg.ogg",
+    "nombreArchivo": "FN16040044800_14.ogg",
+    "ID": "FN16040044800_14",
+    "titulo": "Sonaja de guaje",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/yutonahua/pima/FN16040044800_14.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526087/inali/audios/yutonahua/pima/FN16040044800_14.mp3.mp3",
+    "nombreArchivo": "FN16040044800_14.mp3",
+    "ID": "FN16040044800_14",
+    "titulo": "Sonaja de guaje",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/yutonahua/tepehuanodelsur/FN18060088674_08.ogg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526074/inali/audios/yutonahua/tepehuanodelsur/FN18060088674_08.ogg.ogg",
+    "nombreArchivo": "FN18060088674_08.ogg",
+    "ID": "FN18060088674_08",
+    "titulo": "El susto",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/yutonahua/tepehuanodelsur/FN18060088674_04.ogg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526077/inali/audios/yutonahua/tepehuanodelsur/FN18060088674_04.ogg.ogg",
+    "nombreArchivo": "FN18060088674_04.ogg",
+    "ID": "FN18060088674_04",
+    "titulo": "La abuela",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/yutonahua/tepehuanodelsur/FN18060088674_19.ogg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526077/inali/audios/yutonahua/tepehuanodelsur/FN18060088674_19.ogg.ogg",
+    "nombreArchivo": "FN18060088674_19.ogg",
+    "ID": "FN18060088674_19",
+    "titulo": "El señor, el toro y el ratón",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/yutonahua/tepehuanodelsur/FN18060088674_08.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526078/inali/audios/yutonahua/tepehuanodelsur/FN18060088674_08.mp3.mp3",
+    "nombreArchivo": "FN18060088674_08.mp3",
+    "ID": "FN18060088674_08",
+    "titulo": "El susto",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/yutonahua/tepehuanodelsur/FN18060088674_04.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526079/inali/audios/yutonahua/tepehuanodelsur/FN18060088674_04.mp3.mp3",
+    "nombreArchivo": "FN18060088674_04.mp3",
+    "ID": "FN18060088674_04",
+    "titulo": "La abuela",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/yutonahua/tepehuanodelsur/FN18060088674_19.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526084/inali/audios/yutonahua/tepehuanodelsur/FN18060088674_19.mp3.mp3",
+    "nombreArchivo": "FN18060088674_19.mp3",
+    "ID": "FN18060088674_19",
+    "titulo": "El señor, el toro y el ratón",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526062/inali/audios/yutonahua/tarahumara/7.mp3.mp3",
+    "nombreArchivo": "7.mp3",
+    "titulo": "Simiró mujé / Pase usted",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Martin Makawi",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/yutonahua/tarahumara/14.mp3.mp3",
+    "nombreArchivo": "14.mp3",
+    "titulo": "Kanílaka nawá / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Martin Makawi",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/yutonahua/tarahumara/4.mp3.mp3",
+    "nombreArchivo": "4.mp3",
+    "titulo": "Simiró mujé / Pase usted",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Martin Makawi",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/yutonahua/tarahumara/9.mp3.mp3",
+    "nombreArchivo": "9.mp3",
+    "titulo": "Simiró mujé / Pase usted",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Martin Makawi",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/yutonahua/tarahumara/5.mp3.mp3",
+    "nombreArchivo": "5.mp3",
+    "titulo": "Simiró mujé / Pase usted",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Martin Makawi",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/yutonahua/tarahumara/8.mp3.mp3",
+    "nombreArchivo": "8.mp3",
+    "titulo": "Simiró mujé / Pase usted",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Martin Makawi",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/yutonahua/tarahumara/13.mp3.mp3",
+    "nombreArchivo": "13.mp3",
+    "titulo": "Kanílaka nawá / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Martin Makawi",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/yutonahua/tarahumara/12.mp3.mp3",
+    "nombreArchivo": "12.mp3",
+    "titulo": "Kanílaka nawá / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Martin Makawi",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/yutonahua/tarahumara/3.mp3.mp3",
+    "nombreArchivo": "3.mp3",
+    "titulo": "Simiró mujé / Pase usted",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Martin Makawi",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/yutonahua/tarahumara/6.mp3.mp3",
+    "nombreArchivo": "6.mp3",
+    "titulo": "Simiró mujé / Pase usted",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Martin Makawi",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/yutonahua/tarahumara/1.mp3.mp3",
+    "nombreArchivo": "1.mp3",
+    "titulo": "Kanílaka nawá / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Martin Makawi",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/yutonahua/tarahumara/10.mp3.mp3",
+    "nombreArchivo": "10.mp3",
+    "titulo": "Kanílaka nawá / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Martin Makawi",
+    "ID": 1
+  }, {
+    "id": 2,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/yutonahua/tarahumara/2.mp3.mp3",
+    "nombreArchivo": "2.mp3",
+    "titulo": "Semanélika je'ná napawíkiachi / ¡Que disfruten de esta reunión",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Martin Makawi",
+    "ID": 2
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526067/inali/audios/yutonahua/tarahumara/11.mp3.mp3",
+    "nombreArchivo": "11.mp3",
+    "titulo": "Kanílaka nawá / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Martin Makawi",
+    "ID": 1
+  }, {
+    "id": "FN16040044847_03",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526092/inali/audios/yutonahua/tarahumara/FN16040044847_03.ogg.ogg",
+    "nombreArchivo": "FN16040044847_03.ogg",
+    "titulo": "Echona simiri nije",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán, Instituto Chihuahuense de la Cultura",
+    "tiempoinicio": 0,
+    "tiempofin": 0.11041666666666666,
+    "ID": "FN16040044847_03"
+  }, {
+    "id": "FN16040044847_03",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526096/inali/audios/yutonahua/tarahumara/FN16040044847_03.mp3.mp3",
+    "nombreArchivo": "FN16040044847_03.mp3",
+    "titulo": "Echona simiri nije",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán, Instituto Chihuahuense de la Cultura",
+    "tiempoinicio": 0,
+    "tiempofin": 0.11041666666666666,
+    "ID": "FN16040044847_03"
+  }, {
+    "id": 2,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526100/inali/audios/yutonahua/tarahumara/FN08040000962_08.mp3.mp3",
+    "nombreArchivo": "FN08040000962_08.mp3",
+    "titulo": "Semanélika je'ná napawíkiachi / ¡Que disfruten de esta reunión",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Martin Makawi",
+    "ID": 2
+  }, {
+    "id": "FN08040000977_06.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526086/inali/audios/yutonahua/guarijio/FN08040000977_06.mp3.mp3",
+    "nombreArchivo": "FN08040000977_06.mp3",
+    "titulo": "Gato montés",
+    "creditos": "© Fonoteca \"Henrietta Yurchenco\", Instituto Nacional de los Pueblos Indígenas 2006",
+    "ID": "FN08040000977_06.mp3"
+  }, {
+    "id": "FN08040001000_02.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526091/inali/audios/yutonahua/guarijio/FN08040001000_02.mp3.mp3",
+    "nombreArchivo": "FN08040001000_02.mp3",
+    "titulo": "Wahwe",
+    "creditos": "© José Ruelas Ciriaco, Fonoteca \"Henrietta Yurchenco\", Instituto Nacional de los Pueblos Indígenas 2006",
+    "ID": "FN08040001000_02.mp3"
+  }, {
+    "id": "FN08040001000_03.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526099/inali/audios/yutonahua/guarijio/FN08040001000_03.mp3.mp3",
+    "nombreArchivo": "FN08040001000_03.mp3",
+    "titulo": "Tomosari",
+    "creditos": "© José Ruelas Ciriaco, Fonoteca \"Henrietta Yurchenco\", Instituto Nacional de los Pueblos Indígenas 2006",
+    "ID": "FN08040001000_03.mp3"
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/yutonahua/huichol/10.mp3.mp3",
+    "nombreArchivo": "10.mp3",
+    "titulo": "Aixɨa yunaitɨ xemayeixɨa / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Apolinar González Carrillo",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/yutonahua/huichol/6.mp3.mp3",
+    "nombreArchivo": "6.mp3",
+    "titulo": "Kexeteutaikaiyarɨwa / buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Apolinar González Carrillo",
+    "ID": 3
+  }, {
+    "id": 2,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/yutonahua/huichol/2.mp3.mp3",
+    "nombreArchivo": "2.mp3",
+    "titulo": "Ke'aku / buenos días",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Apolinar González Carrillo",
+    "ID": 2
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/yutonahua/huichol/14.mp3.mp3",
+    "nombreArchivo": "14.mp3",
+    "titulo": "Aixɨa yunaitɨ xemayeixɨa / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Apolinar González Carrillo",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/yutonahua/huichol/11.mp3.mp3",
+    "nombreArchivo": "11.mp3",
+    "titulo": "Aixɨa yunaitɨ xemayeixɨa / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Apolinar González Carrillo",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/yutonahua/huichol/12.mp3.mp3",
+    "nombreArchivo": "12.mp3",
+    "titulo": "Aixɨa yunaitɨ xemayeixɨa / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Apolinar González Carrillo",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/yutonahua/huichol/3.mp3.mp3",
+    "nombreArchivo": "3.mp3",
+    "titulo": "Kexeteutaikaiyarɨwa / buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Apolinar González Carrillo",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/yutonahua/huichol/9.mp3.mp3",
+    "nombreArchivo": "9.mp3",
+    "titulo": "Kexeteutaikaiyarɨwa / buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Apolinar González Carrillo",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/yutonahua/huichol/7.mp3.mp3",
+    "nombreArchivo": "7.mp3",
+    "titulo": "Kexeteutaikaiyarɨwa / buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Apolinar González Carrillo",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/yutonahua/huichol/4.mp3.mp3",
+    "nombreArchivo": "4.mp3",
+    "titulo": "Kexeteutaikaiyarɨwa / buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Apolinar González Carrillo",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/yutonahua/huichol/13.mp3.mp3",
+    "nombreArchivo": "13.mp3",
+    "titulo": "Aixɨa yunaitɨ xemayeixɨa / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Apolinar González Carrillo",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/yutonahua/huichol/8.mp3.mp3",
+    "nombreArchivo": "8.mp3",
+    "titulo": "Kexeteutaikaiyarɨwa / buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Apolinar González Carrillo",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/yutonahua/huichol/5.mp3.mp3",
+    "nombreArchivo": "5.mp3",
+    "titulo": "Kexeteutaikaiyarɨwa / buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Apolinar González Carrillo",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/yutonahua/huichol/1.mp3.mp3",
+    "nombreArchivo": "1.mp3",
+    "titulo": "Aixɨa yunaitɨ xemayeixɨa / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Apolinar González Carrillo",
+    "ID": 1
+  }, {
+    "id": 2,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526099/inali/audios/yutonahua/huichol/FN08040000906_20.mp3.mp3",
+    "nombreArchivo": "FN08040000906_20.mp3",
+    "titulo": "Ke'aku / buenos días",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Apolinar González Carrillo",
+    "ID": 2
+  }]
+}, {
+  "id": "cochimiyumana",
+  "audios": [{
+    "id": "inali/audios/cochimiyumana/kumiai/FN16040044845_05.ogg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526088/inali/audios/cochimiyumana/kumiai/FN16040044845_05.ogg.ogg",
+    "nombreArchivo": "FN16040044845_05.ogg",
+    "ID": "FN16040044845_05",
+    "titulo": "Canto kumiai",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/cochimiyumana/kumiai/FN16040044845_05.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526095/inali/audios/cochimiyumana/kumiai/FN16040044845_05.mp3.mp3",
+    "nombreArchivo": "FN16040044845_05.mp3",
+    "ID": "FN16040044845_05",
+    "titulo": "[Canto kumiai]",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }]
+}, {
+  "id": "seri",
+  "audios": []
+}, {
+  "id": "otomangue",
+  "audios": [{
+    "id": "inali/audios/otomangue/otomi/6.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/otomangue/otomi/6.mp3.mp3",
+    "nombreArchivo": "6.mp3",
+    "ID": 3,
+    "titulo": "Thogi gi zi tsaya / Pase usted a descansar",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Nicandro González Peña"
+  }, {
+    "id": "inali/audios/otomangue/otomi/10.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/otomangue/otomi/10.mp3.mp3",
+    "nombreArchivo": "10.mp3",
+    "ID": 1,
+    "titulo": "Hogä ehe / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Nicandro González Peña"
+  }, {
+    "id": "inali/audios/otomangue/otomi/9.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/otomi/9.mp3.mp3",
+    "nombreArchivo": "9.mp3",
+    "ID": 3,
+    "titulo": "Thogi gi zi tsaya / Pase usted a descansar",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Nicandro González Peña"
+  }, {
+    "id": "inali/audios/otomangue/otomi/4.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/otomi/4.mp3.mp3",
+    "nombreArchivo": "4.mp3",
+    "ID": 3,
+    "titulo": "Thogi gi zi tsaya / Pase usted a descansar",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Nicandro González Peña"
+  }, {
+    "id": "inali/audios/otomangue/otomi/8.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/otomi/8.mp3.mp3",
+    "nombreArchivo": "8.mp3",
+    "ID": 3,
+    "titulo": "Thogi gi zi tsaya / Pase usted a descansar",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Nicandro González Peña"
+  }, {
+    "id": "inali/audios/otomangue/otomi/12.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/otomi/12.mp3.mp3",
+    "nombreArchivo": "12.mp3",
+    "ID": 1,
+    "titulo": "Hogä ehe / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Nicandro González Peña"
+  }, {
+    "id": "inali/audios/otomangue/otomi/15.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/otomi/15.mp3.mp3",
+    "nombreArchivo": "15.mp3",
+    "ID": 1,
+    "titulo": "Hogä ehe / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Nicandro González Peña"
+  }, {
+    "id": "inali/audios/otomangue/otomi/1.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/otomi/1.mp3.mp3",
+    "nombreArchivo": "1.mp3",
+    "ID": 1,
+    "titulo": "Hogä ehe / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Nicandro González Peña"
+  }, {
+    "id": "inali/audios/otomangue/otomi/2.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/otomi/2.mp3.mp3",
+    "nombreArchivo": "2.mp3",
+    "ID": 2,
+    "titulo": "Ga ho ra hmunts'i / ¡Que disfruten de esta reunión",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Nicandro González Peña"
+  }, {
+    "id": "inali/audios/otomangue/otomi/5.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/otomi/5.mp3.mp3",
+    "nombreArchivo": "5.mp3",
+    "ID": 3,
+    "titulo": "Thogi gi zi tsaya / Pase usted a descansar",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Nicandro González Peña"
+  }, {
+    "id": "inali/audios/otomangue/otomi/13.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/otomi/13.mp3.mp3",
+    "nombreArchivo": "13.mp3",
+    "ID": 1,
+    "titulo": "Hogä ehe / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Nicandro González Peña"
+  }, {
+    "id": "inali/audios/otomangue/otomi/7.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/otomi/7.mp3.mp3",
+    "nombreArchivo": "7.mp3",
+    "ID": 3,
+    "titulo": "Thogi gi zi tsaya / Pase usted a descansar",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Nicandro González Peña"
+  }, {
+    "id": "inali/audios/otomangue/otomi/14.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/otomangue/otomi/14.mp3.mp3",
+    "nombreArchivo": "14.mp3",
+    "ID": 1,
+    "titulo": "Hogä ehe / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Nicandro González Peña"
+  }, {
+    "id": "inali/audios/otomangue/otomi/3.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/otomangue/otomi/3.mp3.mp3",
+    "nombreArchivo": "3.mp3",
+    "ID": 3,
+    "titulo": "Thogi gi zi tsaya / Pase usted a descansar",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Nicandro González Peña"
+  }, {
+    "id": "inali/audios/otomangue/otomi/11.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526067/inali/audios/otomangue/otomi/11.mp3.mp3",
+    "nombreArchivo": "11.mp3",
+    "ID": 1,
+    "titulo": "Hogä ehe / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Nicandro González Peña"
+  }, {
+    "id": "inali/audios/otomangue/otomi/FN18040053843_18.ogg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526079/inali/audios/otomangue/otomi/FN18040053843_18.ogg.ogg",
+    "nombreArchivo": "FN18040053843_18.ogg",
+    "ID": "FN18040053843_18",
+    "titulo": "Gracias por la comida (hablado)",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/otomangue/otomi/FN18040053843_19.ogg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526083/inali/audios/otomangue/otomi/FN18040053843_19.ogg.ogg",
+    "nombreArchivo": "FN18040053843_19.ogg",
+    "ID": "FN18040053843_19",
+    "titulo": "Entrega de cargo (hablado)",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/otomangue/otomi/FN18040053843_18.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526085/inali/audios/otomangue/otomi/FN18040053843_18.mp3.mp3",
+    "nombreArchivo": "FN18040053843_18.mp3",
+    "ID": "FN18040053843_18",
+    "titulo": "Gracias por la comida (hablado)",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/otomangue/otomi/FN18040053843_19.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526091/inali/audios/otomangue/otomi/FN18040053843_19.mp3.mp3",
+    "nombreArchivo": "FN18040053843_19.mp3",
+    "ID": "FN18040053843_19",
+    "titulo": "Entrega de cargo (hablado)",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/otomangue/mazahua/9.mp3.mp3",
+    "nombreArchivo": "9.mp3",
+    "titulo": "Chjetji / Buenas noches",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/otomangue/mazahua/1.mp3.mp3",
+    "nombreArchivo": "1.mp3",
+    "titulo": "Kjimiji / Buenos días",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/mazahua/3.mp3.mp3",
+    "nombreArchivo": "3.mp3",
+    "titulo": "Chjetji / Buenas noches",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/mazahua/6.mp3.mp3",
+    "nombreArchivo": "6.mp3",
+    "titulo": "Chjetji / Buenas noches",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/mazahua/7.mp3.mp3",
+    "nombreArchivo": "7.mp3",
+    "titulo": "Chjetji / Buenas noches",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 3
+  }, {
+    "id": 2,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/mazahua/2.mp3.mp3",
+    "nombreArchivo": "2.mp3",
+    "titulo": "Ja bi chjenzhⱥ / Buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 2
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/mazahua/8.mp3.mp3",
+    "nombreArchivo": "8.mp3",
+    "titulo": "Chjetji / Buenas noches",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/mazahua/12.mp3.mp3",
+    "nombreArchivo": "12.mp3",
+    "titulo": "Kjimiji / Buenos días",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/mazahua/4.mp3.mp3",
+    "nombreArchivo": "4.mp3",
+    "titulo": "Chjetji / Buenas noches",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/mazahua/14.mp3.mp3",
+    "nombreArchivo": "14.mp3",
+    "titulo": "Kjimiji / Buenos días",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/mazahua/10.mp3.mp3",
+    "nombreArchivo": "10.mp3",
+    "titulo": "Kjimiji / Buenos días",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/mazahua/11.mp3.mp3",
+    "nombreArchivo": "11.mp3",
+    "titulo": "Kjimiji / Buenos días",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/mazahua/5.mp3.mp3",
+    "nombreArchivo": "5.mp3",
+    "titulo": "Chjetji / Buenas noches",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/mazahua/13.mp3.mp3",
+    "nombreArchivo": "13.mp3",
+    "titulo": "Kjimiji / Buenos días",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 1
+  }, {
+    "id": 2,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526078/inali/audios/otomangue/mazahua/FN08040000928_20.mp3.mp3",
+    "nombreArchivo": "FN08040000928_20.mp3",
+    "titulo": "Ja bi chjenzhⱥ / Buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 2
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526078/inali/audios/otomangue/mazahua/FN08040000928_21.mp3.mp3",
+    "nombreArchivo": "FN08040000928_21.mp3",
+    "titulo": "Kjimiji / Buenos días",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526120/inali/audios/otomangue/mazahua/FN08040000919_01.mp3.mp3",
+    "nombreArchivo": "FN08040000919_01.mp3",
+    "titulo": "Kjimiji / Buenos días",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Jessica Moreno Gómez",
+    "ID": 1
+  }, {
+    "id": "inali/audios/otomangue/pame/FN16040041496.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526179/inali/audios/otomangue/pame/FN16040041496.mp3.wav",
+    "nombreArchivo": "FN16040041496.mp3",
+    "ID": "FN16040041496",
+    "titulo": "Arrullo pame",
+    "creditos": "© Instituto Mexicano de la Radio",
+    "tiempoinicio": 0.0021064814814814813,
+    "tiempofin": 0.002777777777777778
+  }, {
+    "id": 2,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/otomangue/chinanteco/2.mp3.mp3",
+    "nombreArchivo": "2.mp3",
+    "titulo": "Ki’ / Buen provecho",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 2
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/otomangue/chinanteco/6.mp3.mp3",
+    "nombreArchivo": "6.mp3",
+    "titulo": "Bii my aanu ki my güanna’ / Muchas gracias por su visita",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/chinanteco/5.mp3.mp3",
+    "nombreArchivo": "5.mp3",
+    "titulo": "Bii my aanu ki my güanna’ / Muchas gracias por su visita",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/chinanteco/1.mp3.mp3",
+    "nombreArchivo": "1.mp3",
+    "titulo": "Bii my aanu / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/chinanteco/11.mp3.mp3",
+    "nombreArchivo": "11.mp3",
+    "titulo": "Bii my aanu / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/chinanteco/10.mp3.mp3",
+    "nombreArchivo": "10.mp3",
+    "titulo": "Bii my aanu / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/chinanteco/9.mp3.mp3",
+    "nombreArchivo": "9.mp3",
+    "titulo": "Bii my aanu ki my güanna’ / Muchas gracias por su visita",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/chinanteco/4.mp3.mp3",
+    "nombreArchivo": "4.mp3",
+    "titulo": "Bii my aanu ki my güanna’ / Muchas gracias por su visita",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/chinanteco/13.mp3.mp3",
+    "nombreArchivo": "13.mp3",
+    "titulo": "Bii my aanu / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/chinanteco/7.mp3.mp3",
+    "nombreArchivo": "7.mp3",
+    "titulo": "Bii my aanu ki my güanna’ / Muchas gracias por su visita",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/otomangue/chinanteco/14.mp3.mp3",
+    "nombreArchivo": "14.mp3",
+    "titulo": "Bii my aanu / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/otomangue/chinanteco/8.mp3.mp3",
+    "nombreArchivo": "8.mp3",
+    "titulo": "Bii my aanu ki my güanna’ / Muchas gracias por su visita",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/otomangue/chinanteco/12.mp3.mp3",
+    "nombreArchivo": "12.mp3",
+    "titulo": "Bii my aanu / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526067/inali/audios/otomangue/chinanteco/3.mp3.mp3",
+    "nombreArchivo": "3.mp3",
+    "titulo": "Bii my aanu ki my güanna’ / Muchas gracias por su visita",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526074/inali/audios/otomangue/chinanteco/FN14040033975_06.mp3.mp3",
+    "nombreArchivo": "FN14040033975_06.mp3",
+    "titulo": "Bii my aanu / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526089/inali/audios/otomangue/chinanteco/FN14040032975_01.mp3.mp3",
+    "nombreArchivo": "FN14040032975_01.mp3",
+    "titulo": "Bii my aanu / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Bobi Augusto Carrillo Cruz",
+    "ID": 1
+  }, {
+    "id": "FN08010128811",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526150/inali/audios/otomangue/chinanteco/FN08010128811.mp3.wav",
+    "nombreArchivo": "FN08010128811.mp3",
+    "titulo": "Los chatinos del suroeste del estado de Oaxaca. Cuento chatino, El origen del maíz y del frijol",
+    "creditos": "© Instituto Mexicano de la Radio",
+    "ID": "FN08010128811"
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/otomangue/tlapaneco/12.mp3.mp3",
+    "nombreArchivo": "12.mp3",
+    "titulo": "¡Nidxá'! / Bienvenido",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/tlapaneco/10.mp3.mp3",
+    "nombreArchivo": "10.mp3",
+    "titulo": "¡Nidxá'! / Bienvenido",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/tlapaneco/1.mp3.mp3",
+    "nombreArchivo": "1.mp3",
+    "titulo": "¡Nidxá'! / Bienvenido",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/tlapaneco/7.mp3.mp3",
+    "nombreArchivo": "7.mp3",
+    "titulo": "Ànujngáa / Pase usted",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/tlapaneco/6.mp3.mp3",
+    "nombreArchivo": "6.mp3",
+    "titulo": "Ànujngáa / Pase usted",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/tlapaneco/14.mp3.mp3",
+    "nombreArchivo": "14.mp3",
+    "titulo": "¡Nidxá'! / Bienvenido",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/tlapaneco/13.mp3.mp3",
+    "nombreArchivo": "13.mp3",
+    "titulo": "¡Nidxá'! / Bienvenido",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/tlapaneco/11.mp3.mp3",
+    "nombreArchivo": "11.mp3",
+    "titulo": "¡Nidxá'! / Bienvenido",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/tlapaneco/5.mp3.mp3",
+    "nombreArchivo": "5.mp3",
+    "titulo": "Ànujngáa / Pase usted",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/tlapaneco/9.mp3.mp3",
+    "nombreArchivo": "9.mp3",
+    "titulo": "Ànujngáa / Pase usted",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/tlapaneco/4.mp3.mp3",
+    "nombreArchivo": "4.mp3",
+    "titulo": "Ànujngáa / Pase usted",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/tlapaneco/8.mp3.mp3",
+    "nombreArchivo": "8.mp3",
+    "titulo": "Ànujngáa / Pase usted",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/tlapaneco/3.mp3.mp3",
+    "nombreArchivo": "3.mp3",
+    "titulo": "Ànujngáa / Pase usted",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 3
+  }, {
+    "id": 2,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/otomangue/tlapaneco/2.mp3.mp3",
+    "nombreArchivo": "2.mp3",
+    "titulo": "¡Agùyámàkhuíi lá' reunión rá jmá! / ¡Que disfruten de esta reunión!",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 2
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526104/inali/audios/otomangue/tlapaneco/FN08040000997_12.mp3.mp3",
+    "nombreArchivo": "FN08040000997_12.mp3",
+    "titulo": "¡Nidxá'! / Bienvenido",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526104/inali/audios/otomangue/tlapaneco/FN08040000997_04.mp3.mp3",
+    "nombreArchivo": "FN08040000997_04.mp3",
+    "titulo": "Ànujngáa / Pase usted",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Emma Candia Estrada",
+    "ID": 3
+  }, {
+    "id": "FN08040000926_21.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526091/inali/audios/otomangue/mazateco/FN08040000926_21.mp3.mp3",
+    "nombreArchivo": "FN08040000926_21.mp3",
+    "titulo": "To xo'ó danza de los muertos",
+    "creditos": "© Fonoteca \"Henrietta Yurchenco\", Instituto Nacional de los Pueblos Indígenas 2005",
+    "ID": "FN08040000926_21.mp3"
+  }, {
+    "id": "inali/audios/otomangue/popoloca/10.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/otomangue/popoloca/10.mp3.mp3",
+    "nombreArchivo": "10.mp3",
+    "ID": 1,
+    "titulo": "¡Jínaxín f'íaa! / ¡Bienvenido!",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Fausto Aguilar Domínguez"
+  }, {
+    "id": "inali/audios/otomangue/popoloca/6.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/otomangue/popoloca/6.mp3.mp3",
+    "nombreArchivo": "6.mp3",
+    "ID": 3,
+    "titulo": "¡Tātsinga! / Pasa (de afuera hacia adentro)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Fausto Aguilar Domínguez"
+  }, {
+    "id": "inali/audios/otomangue/popoloca/7.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/popoloca/7.mp3.mp3",
+    "nombreArchivo": "7.mp3",
+    "ID": 3,
+    "titulo": "¡Tātsinga! / Pasa (de afuera hacia adentro)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Fausto Aguilar Domínguez"
+  }, {
+    "id": "inali/audios/otomangue/popoloca/9.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/popoloca/9.mp3.mp3",
+    "nombreArchivo": "9.mp3",
+    "ID": 3,
+    "titulo": "¡Tātsinga! / Pasa (de afuera hacia adentro)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Fausto Aguilar Domínguez"
+  }, {
+    "id": "inali/audios/otomangue/popoloca/3.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/popoloca/3.mp3.mp3",
+    "nombreArchivo": "3.mp3",
+    "ID": 3,
+    "titulo": "¡Tātsinga! / Pasa (de afuera hacia adentro)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Fausto Aguilar Domínguez"
+  }, {
+    "id": "inali/audios/otomangue/popoloca/13.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/popoloca/13.mp3.mp3",
+    "nombreArchivo": "13.mp3",
+    "ID": 1,
+    "titulo": "¡Jínaxín f'íaa! / ¡Bienvenido!",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Fausto Aguilar Domínguez"
+  }, {
+    "id": "inali/audios/otomangue/popoloca/14.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/popoloca/14.mp3.mp3",
+    "nombreArchivo": "14.mp3",
+    "ID": 1,
+    "titulo": "¡Jínaxín f'íaa! / ¡Bienvenido!",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Fausto Aguilar Domínguez"
+  }, {
+    "id": "inali/audios/otomangue/popoloca/1.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/popoloca/1.mp3.mp3",
+    "nombreArchivo": "1.mp3",
+    "ID": 1,
+    "titulo": "¡Jínaxín f'íaa! / ¡Bienvenido!",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Fausto Aguilar Domínguez"
+  }, {
+    "id": "inali/audios/otomangue/popoloca/5.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/popoloca/5.mp3.mp3",
+    "nombreArchivo": "5.mp3",
+    "ID": 3,
+    "titulo": "¡Tātsinga! / Pasa (de afuera hacia adentro)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Fausto Aguilar Domínguez"
+  }, {
+    "id": "inali/audios/otomangue/popoloca/11.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/popoloca/11.mp3.mp3",
+    "nombreArchivo": "11.mp3",
+    "ID": 1,
+    "titulo": "¡Jínaxín f'íaa! / ¡Bienvenido!",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Fausto Aguilar Domínguez"
+  }, {
+    "id": "inali/audios/otomangue/popoloca/8.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/popoloca/8.mp3.mp3",
+    "nombreArchivo": "8.mp3",
+    "ID": 3,
+    "titulo": "¡Tātsinga! / Pasa (de afuera hacia adentro)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Fausto Aguilar Domínguez"
+  }, {
+    "id": "inali/audios/otomangue/popoloca/12.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/popoloca/12.mp3.mp3",
+    "nombreArchivo": "12.mp3",
+    "ID": 1,
+    "titulo": "¡Jínaxín f'íaa! / ¡Bienvenido!",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Fausto Aguilar Domínguez"
+  }, {
+    "id": "inali/audios/otomangue/popoloca/2.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/popoloca/2.mp3.mp3",
+    "nombreArchivo": "2.mp3",
+    "ID": 2,
+    "titulo": "¡Nūnguxín tang'é! / ¡Que estés bien!",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Fausto Aguilar Domínguez"
+  }, {
+    "id": "inali/audios/otomangue/popoloca/4.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/otomangue/popoloca/4.mp3.mp3",
+    "nombreArchivo": "4.mp3",
+    "ID": 3,
+    "titulo": "¡Tātsinga! / Pasa (de afuera hacia adentro)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Fausto Aguilar Domínguez"
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/otomangue/zapoteco/5.mp3.mp3",
+    "nombreArchivo": "5.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/zapoteco/3.mp3.mp3",
+    "nombreArchivo": "3.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/zapoteco/4.mp3.mp3",
+    "nombreArchivo": "4.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/zapoteco/6.mp3.mp3",
+    "nombreArchivo": "6.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/zapoteco/13.mp3.mp3",
+    "nombreArchivo": "13.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/zapoteco/11.mp3.mp3",
+    "nombreArchivo": "11.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/zapoteco/15.mp3.mp3",
+    "nombreArchivo": "15.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/zapoteco/8.mp3.mp3",
+    "nombreArchivo": "8.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/zapoteco/1.mp3.mp3",
+    "nombreArchivo": "1.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/zapoteco/10.mp3.mp3",
+    "nombreArchivo": "10.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/zapoteco/14.mp3.mp3",
+    "nombreArchivo": "14.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/otomangue/zapoteco/9.mp3.mp3",
+    "nombreArchivo": "9.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/otomangue/zapoteco/12.mp3.mp3",
+    "nombreArchivo": "12.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/otomangue/zapoteco/2.mp3.mp3",
+    "nombreArchivo": "2.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/otomangue/zapoteco/7.mp3.mp3",
+    "nombreArchivo": "7.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526090/inali/audios/otomangue/zapoteco/FN08040000977_24.mp3.mp3",
+    "nombreArchivo": "FN08040000977_24.mp3",
+    "titulo": "Gudɨd bɨnì / Pase usted (respeto masculino)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas",
+    "ID": 3
+  }, {
+    "id": "FN08040000932_04",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526108/inali/audios/otomangue/chatino/FN08040000932_04.mp3.mp3",
+    "nombreArchivo": "FN08040000932_04.mp3",
+    "titulo": "Danza del carnaval",
+    "creditos": "© Fonoteca \"Henrietta Yurchenco\", Instituto Nacional de los Pueblos Indígenas 2004",
+    "ID": "FN08040000932_04"
+  }, {
+    "id": "FN08040000922_07",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526113/inali/audios/otomangue/chatino/FN08040000922_07.mp3.mp3",
+    "nombreArchivo": "FN08040000922_07.mp3",
+    "titulo": "El mayordomo nuevo, el mayordomo viejo, el caballito y la salida",
+    "creditos": "© Chatinos de Santa Cruz Zezontepec, Fonoteca \"Henrietta Yurchenco\", Instituto Nacional de los Pueblos Indígenas 1994",
+    "ID": "FN08040000922_07"
+  }, {
+    "id": "inali/audios/otomangue/amuzgo/FN08010127002.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526150/inali/audios/otomangue/amuzgo/FN08010127002.mp3.wav",
+    "nombreArchivo": "FN08010127002.mp3",
+    "ID": "FN08010127002",
+    "titulo": "Diálogos en Amuzgo",
+    "creditos": "© Instituto Mexicano de la Radio",
+    "tiempoinicio": 0.0042592592592592595,
+    "tiempofin": 0.004618055555555556
+  }, {
+    "id": "inali/audios/otomangue/mixteco/10.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/otomangue/mixteco/10.mp3.mp3",
+    "nombreArchivo": "10.mp3",
+    "ID": 1,
+    "titulo": "Tiavintío / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Azucena López Castro"
+  }, {
+    "id": "inali/audios/otomangue/mixteco/7.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/mixteco/7.mp3.mp3",
+    "nombreArchivo": "7.mp3",
+    "ID": 3,
+    "titulo": "Tiavintío chindo vati kichinde'endo nu ie / Muchas gracias por su visita",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Azucena López Castro"
+  }, {
+    "id": "inali/audios/otomangue/mixteco/9.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/mixteco/9.mp3.mp3",
+    "nombreArchivo": "9.mp3",
+    "ID": 3,
+    "titulo": "Tiavintío chindo vati kichinde'endo nu ie / Muchas gracias por su visita",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Azucena López Castro"
+  }, {
+    "id": "inali/audios/otomangue/mixteco/6.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/mixteco/6.mp3.mp3",
+    "nombreArchivo": "6.mp3",
+    "ID": 3,
+    "titulo": "Tiavintío chindo vati kichinde'endo nu ie / Muchas gracias por su visita",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Azucena López Castro"
+  }, {
+    "id": "inali/audios/otomangue/mixteco/1.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/mixteco/1.mp3.mp3",
+    "nombreArchivo": "1.mp3",
+    "ID": 1,
+    "titulo": "Tiavintío / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Azucena López Castro"
+  }, {
+    "id": "inali/audios/otomangue/mixteco/8.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/mixteco/8.mp3.mp3",
+    "nombreArchivo": "8.mp3",
+    "ID": 3,
+    "titulo": "Tiavintío chindo vati kichinde'endo nu ie / Muchas gracias por su visita",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Azucena López Castro"
+  }, {
+    "id": "inali/audios/otomangue/mixteco/11.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/mixteco/11.mp3.mp3",
+    "nombreArchivo": "11.mp3",
+    "ID": 1,
+    "titulo": "Tiavintío / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Azucena López Castro"
+  }, {
+    "id": "inali/audios/otomangue/mixteco/5.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/otomangue/mixteco/5.mp3.mp3",
+    "nombreArchivo": "5.mp3",
+    "ID": 3,
+    "titulo": "Tiavintío chindo vati kichinde'endo nu ie / Muchas gracias por su visita",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Azucena López Castro"
+  }, {
+    "id": "inali/audios/otomangue/mixteco/4.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/otomangue/mixteco/4.mp3.mp3",
+    "nombreArchivo": "4.mp3",
+    "ID": 3,
+    "titulo": "Tiavintío chindo vati kichinde'endo nu ie / Muchas gracias por su visita",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Azucena López Castro"
+  }, {
+    "id": "inali/audios/otomangue/mixteco/3.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/otomangue/mixteco/3.mp3.mp3",
+    "nombreArchivo": "3.mp3",
+    "ID": 3,
+    "titulo": "Tiavintío chindo vati kichinde'endo nu ie / Muchas gracias por su visita",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Azucena López Castro"
+  }, {
+    "id": "inali/audios/otomangue/mixteco/2.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/otomangue/mixteco/2.mp3.mp3",
+    "nombreArchivo": "2.mp3",
+    "ID": 2,
+    "titulo": "Chaan daando chachindo / Buen provecho.",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Azucena López Castro"
+  }, {
+    "id": "inali/audios/otomangue/mixteco/12.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526067/inali/audios/otomangue/mixteco/12.mp3.mp3",
+    "nombreArchivo": "12.mp3",
+    "ID": 1,
+    "titulo": "Tiavintío / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Azucena López Castro"
+  }, {
+    "id": "inali/audios/otomangue/mixteco/FN18040053861_04.ogg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526080/inali/audios/otomangue/mixteco/FN18040053861_04.ogg.ogg",
+    "nombreArchivo": "FN18040053861_04.ogg",
+    "ID": "FN18040053861_04",
+    "titulo": "Nu kani ndo xichi = Vamos a hacer el surco",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/otomangue/mixteco/FN18040053861_04.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526086/inali/audios/otomangue/mixteco/FN18040053861_04.mp3.mp3",
+    "nombreArchivo": "FN18040053861_04.mp3",
+    "ID": "FN18040053861_04",
+    "titulo": "Nu kani ndo xichi = Vamos a hacer el surco",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/otomangue/triqui/4.mp3.mp3",
+    "nombreArchivo": "4.mp3",
+    "titulo": "Ca’anj guii / Buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Holmec Martínez Ramírez",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/otomangue/triqui/8.mp3.mp3",
+    "nombreArchivo": "8.mp3",
+    "titulo": "Ca’anj guii / Buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Holmec Martínez Ramírez",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/triqui/7.mp3.mp3",
+    "nombreArchivo": "7.mp3",
+    "titulo": "Ca’anj guii / Buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Holmec Martínez Ramírez",
+    "ID": 3
+  }, {
+    "id": 2,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/triqui/2.mp3.mp3",
+    "nombreArchivo": "2.mp3",
+    "titulo": "Guun xta’ guii / Buenos días",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Holmec Martínez Ramírez",
+    "ID": 2
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/triqui/6.mp3.mp3",
+    "nombreArchivo": "6.mp3",
+    "titulo": "Ca’anj guii / Buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Holmec Martínez Ramírez",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/triqui/5.mp3.mp3",
+    "nombreArchivo": "5.mp3",
+    "titulo": "Ca’anj guii / Buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Holmec Martínez Ramírez",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/otomangue/triqui/11.mp3.mp3",
+    "nombreArchivo": "11.mp3",
+    "titulo": "Sa’ ndo’o ‘na’ soj / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Holmec Martínez Ramírez",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/triqui/9.mp3.mp3",
+    "nombreArchivo": "9.mp3",
+    "titulo": "Ca’anj guii / Buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Holmec Martínez Ramírez",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/triqui/1.mp3.mp3",
+    "nombreArchivo": "1.mp3",
+    "titulo": "Sa’ ndo’o ‘na’ soj / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Holmec Martínez Ramírez",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/triqui/3.mp3.mp3",
+    "nombreArchivo": "3.mp3",
+    "titulo": "Ca’anj guii / Buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Holmec Martínez Ramírez",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/otomangue/triqui/10.mp3.mp3",
+    "nombreArchivo": "10.mp3",
+    "titulo": "Sa’ ndo’o ‘na’ soj / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Holmec Martínez Ramírez",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526092/inali/audios/otomangue/triqui/FN08040000910_01.mp3.mp3",
+    "nombreArchivo": "FN08040000910_01.mp3",
+    "titulo": "Sa’ ndo’o ‘na’ soj / Bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Holmec Martínez Ramírez",
+    "ID": 1
+  }, {
+    "id": "FN08040000945_07.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526094/inali/audios/otomangue/triqui/FN08040000945_07.mp3.mp3",
+    "nombreArchivo": "FN08040000945_07.mp3",
+    "titulo": "El son de la mujer",
+    "creditos": "© Grupo indígena triqui, Fonoteca \"Henrietta Yurchenco\", Instituto Nacional de los Pueblos Indígenas 1997",
+    "ID": "FN08040000945_07.mp3"
+  }, {
+    "id": "FN10040014254_02.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526101/inali/audios/otomangue/triqui/FN10040014254_02.mp3.mp3",
+    "nombreArchivo": "FN10040014254_02.mp3",
+    "titulo": "Flor de dalia",
+    "creditos": "© Fonoteca \"Henrietta Yurchenco\", Instituto Nacional de los Pueblos Indígenas 2009",
+    "ID": "FN10040014254_02.mp3"
+  }, {
+    "id": "FN14040032935",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526148/inali/audios/otomangue/triqui/FN14040032935.mp3.wav",
+    "nombreArchivo": "FN14040032935.mp3",
+    "titulo": "Conservando nuestro idioma indígena",
+    "creditos": "© Instituto Mexicano de la Radio",
+    "tiempoinicio": 0.28888888888888886,
+    "tiempofin": 0.3527777777777778,
+    "ID": "FN14040032935"
+  }]
+}, {
+  "id": "maya",
+  "audios": [{
+    "id": "inali/audios/maya/huasteco/FN08040000900_23.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526082/inali/audios/maya/huasteco/FN08040000900_23.mp3.mp3",
+    "nombreArchivo": "FN08040000900_23.mp3",
+    "ID": "FN08040000900_23",
+    "titulo": "sin nombre (sic)",
+    "creditos": "© Fonoteca \"Henrietta Yurchenco\", Instituto Nacional de los Pueblos Indígenas"
+  }, {
+    "id": "inali/audios/maya/maya/FN16040041653_08.ogg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526071/inali/audios/maya/maya/FN16040041653_08.ogg.ogg",
+    "nombreArchivo": "FN16040041653_08.ogg",
+    "ID": "FN16040041653_08",
+    "titulo": "Baaxal tuch'bil ju'un = Papalote",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/maya/maya/FN16040041653_08.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526074/inali/audios/maya/maya/FN16040041653_08.mp3.mp3",
+    "nombreArchivo": "FN16040041653_08.mp3",
+    "ID": "FN16040041653_08",
+    "titulo": "Baaxal tuch'bil ju'un = Papalote",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "FN08040000982_01",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526100/inali/audios/maya/chol/FN08040000982_01.mp3.mp3",
+    "nombreArchivo": "FN08040000982_01.mp3",
+    "titulo": "La Múcura",
+    "creditos": "© Grupo Nuevo Renacimiento, Fonoteca \"Henrietta Yurchenco\", Instituto Nacional de los Pueblos Indígenas 2006",
+    "ID": "FN08040000982_01"
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/maya/tseltal/3.mp3.mp3",
+    "nombreArchivo": "3.mp3",
+    "titulo": "We'anme / buen provecho",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/maya/tseltal/13.mp3.mp3",
+    "nombreArchivo": "13.mp3",
+    "titulo": "Lekuk sjulel a wo'tanik / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 1
+  }, {
+    "id": 2,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/maya/tseltal/2.mp3.mp3",
+    "nombreArchivo": "2.mp3",
+    "titulo": "Te jbile ja'… / mi nombre es...",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 2
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/maya/tseltal/9.mp3.mp3",
+    "nombreArchivo": "9.mp3",
+    "titulo": "We'anme / buen provecho",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/maya/tseltal/7.mp3.mp3",
+    "nombreArchivo": "7.mp3",
+    "titulo": "We'anme / buen provecho",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/maya/tseltal/12.mp3.mp3",
+    "nombreArchivo": "12.mp3",
+    "titulo": "Lekuk sjulel a wo'tanik / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/maya/tseltal/14.mp3.mp3",
+    "nombreArchivo": "14.mp3",
+    "titulo": "Lekuk sjulel a wo'tanik / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/maya/tseltal/1.mp3.mp3",
+    "nombreArchivo": "1.mp3",
+    "titulo": "Lekuk sjulel a wo'tanik / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/maya/tseltal/10.mp3.mp3",
+    "nombreArchivo": "10.mp3",
+    "titulo": "Lekuk sjulel a wo'tanik / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/maya/tseltal/5.mp3.mp3",
+    "nombreArchivo": "5.mp3",
+    "titulo": "We'anme / buen provecho",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/maya/tseltal/6.mp3.mp3",
+    "nombreArchivo": "6.mp3",
+    "titulo": "We'anme / buen provecho",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/maya/tseltal/4.mp3.mp3",
+    "nombreArchivo": "4.mp3",
+    "titulo": "We'anme / buen provecho",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/maya/tseltal/11.mp3.mp3",
+    "nombreArchivo": "11.mp3",
+    "titulo": "Lekuk sjulel a wo'tanik / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/maya/tseltal/8.mp3.mp3",
+    "nombreArchivo": "8.mp3",
+    "titulo": "We'anme / buen provecho",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 3
+  }, {
+    "id": 2,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526099/inali/audios/maya/tseltal/FN08040000899_24.mp3.mp3",
+    "nombreArchivo": "FN08040000899_24.mp3",
+    "titulo": "Te jbile ja'… / mi nombre es...",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 2
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526101/inali/audios/maya/tseltal/FN08040000982_18.mp3.mp3",
+    "nombreArchivo": "FN08040000982_18.mp3",
+    "titulo": "Lekuk sjulel a wo'tanik / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526118/inali/audios/maya/tseltal/FN10030164469_08.mp3.mp3",
+    "nombreArchivo": "FN10030164469_08.mp3",
+    "titulo": "Lekuk sjulel a wo'tanik / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Blanca Inés Gómez Sántiz",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526063/inali/audios/maya/tsotsil/6.mp3.mp3",
+    "nombreArchivo": "6.mp3",
+    "titulo": "Chi’ino batel kajvaltik / ¡Que te vaya bien! (que nuestro señor te acompañe)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, María Moshan Vargas",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/maya/tsotsil/1.mp3.mp3",
+    "nombreArchivo": "1.mp3",
+    "titulo": "Bats’i okol aval / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, María Moshan Vargas",
+    "ID": 1
+  }, {
+    "id": 2,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/maya/tsotsil/2.mp3.mp3",
+    "nombreArchivo": "2.mp3",
+    "titulo": "Yu jpech vaj / Buen provecho.",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, María Moshan Vargas",
+    "ID": 2
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/maya/tsotsil/11.mp3.mp3",
+    "nombreArchivo": "11.mp3",
+    "titulo": "Bats’i okol aval / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, María Moshan Vargas",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/maya/tsotsil/4.mp3.mp3",
+    "nombreArchivo": "4.mp3",
+    "titulo": "Chi’ino batel kajvaltik / ¡Que te vaya bien! (que nuestro señor te acompañe)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, María Moshan Vargas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/maya/tsotsil/5.mp3.mp3",
+    "nombreArchivo": "5.mp3",
+    "titulo": "Chi’ino batel kajvaltik / ¡Que te vaya bien! (que nuestro señor te acompañe)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, María Moshan Vargas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/maya/tsotsil/3.mp3.mp3",
+    "nombreArchivo": "3.mp3",
+    "titulo": "Chi’ino batel kajvaltik / ¡Que te vaya bien! (que nuestro señor te acompañe)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, María Moshan Vargas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/maya/tsotsil/7.mp3.mp3",
+    "nombreArchivo": "7.mp3",
+    "titulo": "Chi’ino batel kajvaltik / ¡Que te vaya bien! (que nuestro señor te acompañe)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, María Moshan Vargas",
+    "ID": 3
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/maya/tsotsil/9.mp3.mp3",
+    "nombreArchivo": "9.mp3",
+    "titulo": "Chi’ino batel kajvaltik / ¡Que te vaya bien! (que nuestro señor te acompañe)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, María Moshan Vargas",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/maya/tsotsil/12.mp3.mp3",
+    "nombreArchivo": "12.mp3",
+    "titulo": "Bats’i okol aval / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, María Moshan Vargas",
+    "ID": 1
+  }, {
+    "id": 3,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/maya/tsotsil/8.mp3.mp3",
+    "nombreArchivo": "8.mp3",
+    "titulo": "Chi’ino batel kajvaltik / ¡Que te vaya bien! (que nuestro señor te acompañe)",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, María Moshan Vargas",
+    "ID": 3
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/maya/tsotsil/10.mp3.mp3",
+    "nombreArchivo": "10.mp3",
+    "titulo": "Bats’i okol aval / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, María Moshan Vargas",
+    "ID": 1
+  }, {
+    "id": "FN08040000879_16",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526069/inali/audios/maya/tsotsil/FN08040000879_16.ogg.ogg",
+    "nombreArchivo": "FN08040000879_16.ogg",
+    "titulo": "Ch’ulmetik Luna",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán",
+    "ID": "FN08040000879_16"
+  }, {
+    "id": "FN08040000879_05",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526070/inali/audios/maya/tsotsil/FN08040000879_05.ogg.ogg",
+    "nombreArchivo": "FN08040000879_05.ogg",
+    "titulo": "Jpas batel",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán",
+    "ID": "FN08040000879_05"
+  }, {
+    "id": "FN08040000879_16",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526071/inali/audios/maya/tsotsil/FN08040000879_16.mp3.mp3",
+    "nombreArchivo": "FN08040000879_16.mp3",
+    "titulo": "Ch’ulmetik Luna",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán",
+    "ID": "FN08040000879_16"
+  }, {
+    "id": "FN08040000879_05",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526071/inali/audios/maya/tsotsil/FN08040000879_05.mp3.mp3",
+    "nombreArchivo": "FN08040000879_05.mp3",
+    "titulo": "Jpas batel",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán",
+    "ID": "FN08040000879_05"
+  }, {
+    "id": "FN08040000879_11",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526075/inali/audios/maya/tsotsil/FN08040000879_11.ogg.ogg",
+    "nombreArchivo": "FN08040000879_11.ogg",
+    "titulo": "Ta ba mukinal",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán",
+    "ID": "FN08040000879_11"
+  }, {
+    "id": "FN08040010798_17",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526076/inali/audios/maya/tsotsil/FN08040010798_17.ogg.ogg",
+    "nombreArchivo": "FN08040010798_17.ogg",
+    "titulo": "La jti jbe suayel kajvaltik... = Desperté a Dios...",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán",
+    "ID": "FN08040010798_17"
+  }, {
+    "id": "FN16040041653_02",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526078/inali/audios/maya/tsotsil/FN16040041653_02.ogg.ogg",
+    "nombreArchivo": "FN16040041653_02.ogg",
+    "titulo": "Tajimol ch'ulelaletik = Juegos de nahuales",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán",
+    "ID": "FN16040041653_02"
+  }, {
+    "id": "FN08040000879_11",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526078/inali/audios/maya/tsotsil/FN08040000879_11.mp3.mp3",
+    "nombreArchivo": "FN08040000879_11.mp3",
+    "titulo": "Ta ba mukinal",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán",
+    "ID": "FN08040000879_11"
+  }, {
+    "id": "FN08040010798_17",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526083/inali/audios/maya/tsotsil/FN08040010798_17.mp3.mp3",
+    "nombreArchivo": "FN08040010798_17.mp3",
+    "titulo": "La jti jbe suayel kajvaltik... = Desperté a Dios...",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán",
+    "ID": "FN08040010798_17"
+  }, {
+    "id": "FN16040041653_02",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526084/inali/audios/maya/tsotsil/FN16040041653_02.mp3.mp3",
+    "nombreArchivo": "FN16040041653_02.mp3",
+    "titulo": "Tajimol ch'ulelaletik = Juegos de nahuales",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán",
+    "ID": "FN16040041653_02"
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526104/inali/audios/maya/tsotsil/FN08040000914_20.mp3.mp3",
+    "nombreArchivo": "FN08040000914_20.mp3",
+    "titulo": "Bats’i okol aval / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, María Moshan Vargas",
+    "ID": 1
+  }, {
+    "id": 1,
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526119/inali/audios/maya/tsotsil/FN08040000910_04.mp3.mp3",
+    "nombreArchivo": "FN08040000910_04.mp3",
+    "titulo": "Bats’i okol aval / Muchas gracias",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, María Moshan Vargas",
+    "ID": 1
+  }, {
+    "id": "FN08040000927_07",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526108/inali/audios/maya/mam/FN08040000927_07.mp3.mp3",
+    "nombreArchivo": "FN08040000927_07.mp3",
+    "titulo": "El cruzado",
+    "creditos": "© José Andrés Manjarréz, tek´sono triple marimba, Pascual Ordoñez Ortíz,tsaj chak´o centro marimba, Isreael Pérez Felipe, tjak´o bajo marimba, Fonoteca \"Henrietta Yurchenco\", Instituto Nacional de los Pueblos Indígenas 1990",
+    "ID": "FN08040000927_07"
+  }]
+}, {
+  "id": "totonacotepehua",
+  "audios": []
+}, {
+  "id": "tarasca",
+  "audios": []
+}, {
+  "id": "mixezoque",
+  "audios": [{
+    "id": "inali/audios/mixezoque/mixe/8.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/mixezoque/mixe/8.mp3.mp3",
+    "nombreArchivo": "8.mp3",
+    "ID": 3,
+    "titulo": "Te’ns pyë / buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Krystel Zahiled Cruz Vásquez"
+  }, {
+    "id": "inali/audios/mixezoque/mixe/3.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/mixezoque/mixe/3.mp3.mp3",
+    "nombreArchivo": "3.mp3",
+    "ID": 3,
+    "titulo": "Te’ns pyë / buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Krystel Zahiled Cruz Vásquez"
+  }, {
+    "id": "inali/audios/mixezoque/mixe/1.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/mixezoque/mixe/1.mp3.mp3",
+    "nombreArchivo": "1.mp3",
+    "ID": 1,
+    "titulo": "Ëy ku mentë ku mjä’ättë / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Krystel Zahiled Cruz Vásquez"
+  }, {
+    "id": "inali/audios/mixezoque/mixe/4.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/mixezoque/mixe/4.mp3.mp3",
+    "nombreArchivo": "4.mp3",
+    "ID": 3,
+    "titulo": "Te’ns pyë / buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Krystel Zahiled Cruz Vásquez"
+  }, {
+    "id": "inali/audios/mixezoque/mixe/12.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/mixezoque/mixe/12.mp3.mp3",
+    "nombreArchivo": "12.mp3",
+    "ID": 1,
+    "titulo": "Ëy ku mentë ku mjä’ättë / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Krystel Zahiled Cruz Vásquez"
+  }, {
+    "id": "inali/audios/mixezoque/mixe/10.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/mixezoque/mixe/10.mp3.mp3",
+    "nombreArchivo": "10.mp3",
+    "ID": 1,
+    "titulo": "Ëy ku mentë ku mjä’ättë / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Krystel Zahiled Cruz Vásquez"
+  }, {
+    "id": "inali/audios/mixezoque/mixe/2.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/mixezoque/mixe/2.mp3.mp3",
+    "nombreArchivo": "2.mp3",
+    "ID": 2,
+    "titulo": "Yäm nkää’yën / buen provecho",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Krystel Zahiled Cruz Vásquez"
+  }, {
+    "id": "inali/audios/mixezoque/mixe/11.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/mixezoque/mixe/11.mp3.mp3",
+    "nombreArchivo": "11.mp3",
+    "ID": 1,
+    "titulo": "Ëy ku mentë ku mjä’ättë / bienvenidos",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Krystel Zahiled Cruz Vásquez"
+  }, {
+    "id": "inali/audios/mixezoque/mixe/7.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526064/inali/audios/mixezoque/mixe/7.mp3.mp3",
+    "nombreArchivo": "7.mp3",
+    "ID": 3,
+    "titulo": "Te’ns pyë / buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Krystel Zahiled Cruz Vásquez"
+  }, {
+    "id": "inali/audios/mixezoque/mixe/9.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526065/inali/audios/mixezoque/mixe/9.mp3.mp3",
+    "nombreArchivo": "9.mp3",
+    "ID": 3,
+    "titulo": "Te’ns pyë / buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Krystel Zahiled Cruz Vásquez"
+  }, {
+    "id": "inali/audios/mixezoque/mixe/6.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/mixezoque/mixe/6.mp3.mp3",
+    "nombreArchivo": "6.mp3",
+    "ID": 3,
+    "titulo": "Te’ns pyë / buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Krystel Zahiled Cruz Vásquez"
+  }, {
+    "id": "inali/audios/mixezoque/mixe/5.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526066/inali/audios/mixezoque/mixe/5.mp3.mp3",
+    "nombreArchivo": "5.mp3",
+    "ID": 3,
+    "titulo": "Te’ns pyë / buenas tardes",
+    "creditos": "© Instituto Nacional de Lenguas Indígenas, Krystel Zahiled Cruz Vásquez"
+  }, {
+    "id": "inali/audios/mixezoque/mixe/FN08040010798_24.ogg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526081/inali/audios/mixezoque/mixe/FN08040010798_24.ogg.ogg",
+    "nombreArchivo": "FN08040010798_24.ogg",
+    "ID": "FN08040010798_24",
+    "titulo": "Nïïpïn mook",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/mixezoque/mixe/FN08040010798_24.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526084/inali/audios/mixezoque/mixe/FN08040010798_24.mp3.mp3",
+    "nombreArchivo": "FN08040010798_24.mp3",
+    "ID": "FN08040010798_24",
+    "titulo": "Nïïpïn mook",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/mixezoque/zoque/FN08040010798_13.ogg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526068/inali/audios/mixezoque/zoque/FN08040010798_13.ogg.ogg",
+    "nombreArchivo": "FN08040010798_13.ogg",
+    "ID": "FN08040010798_13",
+    "titulo": "Mikeas Sánchez Tukuruj tay",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/mixezoque/zoque/FN08040010798_25.ogg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526071/inali/audios/mixezoque/zoque/FN08040010798_25.ogg.ogg",
+    "nombreArchivo": "FN08040010798_25.ogg",
+    "ID": "FN08040010798_25",
+    "titulo": "Ugba´ te´ ka' kuy = Duerme la muerte",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/mixezoque/zoque/FN08040010798_13.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526073/inali/audios/mixezoque/zoque/FN08040010798_13.mp3.mp3",
+    "nombreArchivo": "FN08040010798_13.mp3",
+    "ID": "FN08040010798_13",
+    "titulo": "Mikeas Sánchez Tukuruj tay",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/mixezoque/zoque/FN08040010798_25.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526074/inali/audios/mixezoque/zoque/FN08040010798_25.mp3.mp3",
+    "nombreArchivo": "FN08040010798_25.mp3",
+    "ID": "FN08040010798_25",
+    "titulo": "Ugba´ te´ ka' kuy = Duerme la muerte",
+    "creditos": "© Dirección General de Culturas Populares, Indígenas y Urbanas (DGCPIU), CID Alberto Beltrán"
+  }, {
+    "id": "inali/audios/mixezoque/zoque/1FN16040041496.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526180/inali/audios/mixezoque/zoque/1FN16040041496.mp3.wav",
+    "nombreArchivo": "1FN16040041496.mp3",
+    "ID": "1FN16040041496",
+    "titulo": "La migueleña",
+    "creditos": "© Instituto Mexicano de la Radio"
+  }]
+}, {
+  "id": "chontaldeoaxaca",
+  "audios": [{
+    "id": "inali/audios/chontaldeoaxaca/chontaldeoaxaca/FN08010153102.mp3",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526159/inali/audios/chontaldeoaxaca/chontaldeoaxaca/FN08010153102.mp3.wav",
+    "nombreArchivo": "FN08010153102.mp3"
+  }]
+}, {
+  "id": "huave",
+  "audios": [{
+    "id": "FN08040000931_09",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/video/upload/v1573526098/inali/audios/huave/huave/FN08040000931_09.mp3.mp3",
+    "nombreArchivo": "FN08040000931_09.mp3",
+    "titulo": "Cangrejo sin compás",
+    "creditos": "© Mi kualaj xa kambaj, Fonoteca \"Henrietta Yurchenco\", Instituto Nacional de los Pueblos Indígenas 2007",
+    "ID": "FN08040000931_09"
+  }]
+}]

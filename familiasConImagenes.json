@@ -1,0 +1,796 @@
+[{
+  "id": "algica",
+  "fotografias": [{
+    "id": "inali/imagenes/algica/kickapoo/kickapoo/fotografias/kickapoo-Artesanías_kickapoo_AEO_4.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390410/inali/imagenes/algica/kickapoo/kickapoo/fotografias/kickapoo-Artesan%C3%ADas_kickapoo_AEO_4.jpg.jpg",
+    "nombreArchivo": "Artesanías_kickapoo_AEO_4.jpg",
+    "titulo": "Artesanías",
+    "creditos": "ALIN - Arnulfo Embriz Osorio"
+  }, {
+    "id": "inali/imagenes/algica/kickapoo/kickapoo/fotografias/kickapoo-Artesanías_kickapoo_AEO_7.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390411/inali/imagenes/algica/kickapoo/kickapoo/fotografias/kickapoo-Artesan%C3%ADas_kickapoo_AEO_7.jpg.jpg",
+    "nombreArchivo": "Artesanías_kickapoo_AEO_7.jpg",
+    "titulo": "Artesanías",
+    "creditos": "ALIN - Arnulfo Embriz Osorio"
+  }, {
+    "id": "inali/imagenes/algica/kickapoo/kickapoo/fotografias/kickapoo-Artesanías_kickapoo_AEO_5.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390415/inali/imagenes/algica/kickapoo/kickapoo/fotografias/kickapoo-Artesan%C3%ADas_kickapoo_AEO_5.jpg.jpg",
+    "nombreArchivo": "Artesanías_kickapoo_AEO_5.jpg",
+    "titulo": "Artesanías",
+    "creditos": "ALIN - Arnulfo Embriz Osorio"
+  }]
+}, {
+  "id": "yutonahua",
+  "fotografias": [{
+    "id": "inali/imagenes/yutonahua/fotografias/yutonahua-Carnaval_San_Juan_mexicano_de_guerrero_EAAJ.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571385289/inali/imagenes/yutonahua/fotografias/yutonahua-Carnaval_San_Juan_mexicano_de_guerrero_EAAJ.jpg.jpg",
+    "nombreArchivo": "Carnaval_San_Juan_mexicano_de_guerrero_EAAJ.jpg",
+    "titulo": "Carnaval de San Juan",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/yutonahua/fotografias/yutonahua-Día de muertos_mexicano_de_guerrero_EAAJ1.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571385289/inali/imagenes/yutonahua/fotografias/yutonahua-D%C3%ADa%20de%20muertos_mexicano_de_guerrero_EAAJ1.jpg.jpg",
+    "nombreArchivo": "Día de muertos_mexicano_de_guerrero_EAAJ1.jpg",
+    "titulo": "Día de muertos",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/yutonahua/tepehuanodelsur/fotografias/tepehuanodelsur-Músicos_tepehuanosdelsur alto_AEO_2.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387601/inali/imagenes/yutonahua/tepehuanodelsur/fotografias/tepehuanodelsur-M%C3%BAsicos_tepehuanosdelsur%20alto_AEO_2.jpg.jpg",
+    "nombreArchivo": "Músicos_tepehuanosdelsur alto_AEO_2.jpg",
+    "titulo": "Músicos",
+    "creditos": "ALIN - Arnulfo Embriz Osorio"
+  }, {
+    "id": "inali/imagenes/yutonahua/tepehuanodelsur/fotografias/tepehuanodelsur-Músicos_tepehuanosdelsur alto_AEO_5.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387601/inali/imagenes/yutonahua/tepehuanodelsur/fotografias/tepehuanodelsur-M%C3%BAsicos_tepehuanosdelsur%20alto_AEO_5.jpg.jpg",
+    "nombreArchivo": "Músicos_tepehuanosdelsur alto_AEO_5.jpg",
+    "titulo": "Músicos",
+    "creditos": "ALIN - Arnulfo Embriz Osorio"
+  }, {
+    "id": "inali/imagenes/yutonahua/tarahumara/fotografias/tarahumara-Festejo_tarahumara_EAAJ_27.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387792/inali/imagenes/yutonahua/tarahumara/fotografias/tarahumara-Festejo_tarahumara_EAAJ_27.jpg.jpg",
+    "nombreArchivo": "Festejo_tarahumara_EAAJ_27.jpg",
+    "titulo": "Festejo",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/yutonahua/tarahumara/fotografias/tarahumara-Festejo_tarahumara_EAAJ_15.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387793/inali/imagenes/yutonahua/tarahumara/fotografias/tarahumara-Festejo_tarahumara_EAAJ_15.jpg.jpg",
+    "nombreArchivo": "Festejo_tarahumara_EAAJ_15.jpg",
+    "titulo": "Festejo",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/yutonahua/tarahumara/fotografias/tarahumara-Festejo_tarahumara_EAAJ_4.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387794/inali/imagenes/yutonahua/tarahumara/fotografias/tarahumara-Festejo_tarahumara_EAAJ_4.jpg.jpg",
+    "nombreArchivo": "Festejo_tarahumara_EAAJ_4.jpg",
+    "titulo": "Festejo",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/yutonahua/mayo/mayo/fotografias/mayo-Mayos_mayo_JPAP (7).JPG",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390421/inali/imagenes/yutonahua/mayo/mayo/fotografias/mayo-Mayos_mayo_JPAP%20%287%29.JPG.jpg",
+    "nombreArchivo": "Mayos_mayo_JPAP (7).JPG",
+    "titulo": "Mayos",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }, {
+    "id": "inali/imagenes/yutonahua/mayo/mayo/fotografias/mayo-Mayos_mayo_JPAP (1).jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390424/inali/imagenes/yutonahua/mayo/mayo/fotografias/mayo-Mayos_mayo_JPAP%20%281%29.jpg.jpg",
+    "nombreArchivo": "Mayos_mayo_JPAP (1).jpg",
+    "titulo": "Mayos",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }, {
+    "id": "inali/imagenes/yutonahua/mayo/mayo/fotografias/mayo-Mayos_mayo_JPAP (5).JPG",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390425/inali/imagenes/yutonahua/mayo/mayo/fotografias/mayo-Mayos_mayo_JPAP%20%285%29.JPG.jpg",
+    "nombreArchivo": "Mayos_mayo_JPAP (5).JPG",
+    "titulo": "Mayos",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }, {
+    "id": "inali/imagenes/yutonahua/cora/fotografias/cora-Retrato_Cora_AEM_20121.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387605/inali/imagenes/yutonahua/cora/fotografias/cora-Retrato_Cora_AEM_20121.jpg.jpg",
+    "nombreArchivo": "Retrato_Cora_AEM_20121.jpg",
+    "titulo": "Retrato",
+    "creditos": "ALIN"
+  }, {
+    "id": "inali/imagenes/yutonahua/cora/coraderosarito/fotografias/coraderosarito-La judea Cora_cora de Rosarito_EAAJ (50) copia.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390406/inali/imagenes/yutonahua/cora/coraderosarito/fotografias/coraderosarito-La%20judea%20Cora_cora%20de%20Rosarito_EAAJ%20%2850%29%20copia.jpg.jpg",
+    "nombreArchivo": "La judea Cora_cora de Rosarito_EAAJ (50) copia.jpg",
+    "titulo": "La judea",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/yutonahua/cora/coraderosarito/fotografias/coraderosarito-La judea Cora_cora de Rosarito_EAAJ (53) copia.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390416/inali/imagenes/yutonahua/cora/coraderosarito/fotografias/coraderosarito-La%20judea%20Cora_cora%20de%20Rosarito_EAAJ%20%2853%29%20copia.jpg.jpg",
+    "nombreArchivo": "La judea Cora_cora de Rosarito_EAAJ (53) copia.jpg",
+    "titulo": "La judea",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/yutonahua/cora/coraderosarito/fotografias/coraderosarito-La judea Cora_cora de Rosarito_EAAJ (46) copia.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390417/inali/imagenes/yutonahua/cora/coraderosarito/fotografias/coraderosarito-La%20judea%20Cora_cora%20de%20Rosarito_EAAJ%20%2846%29%20copia.jpg.jpg",
+    "nombreArchivo": "La judea Cora_cora de Rosarito_EAAJ (46) copia.jpg",
+    "titulo": "La judea",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/yutonahua/huichol/fotografias/huichol-Wixarikas en Jalisco_JPAP (4) copia.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387794/inali/imagenes/yutonahua/huichol/fotografias/huichol-Wixarikas%20en%20Jalisco_JPAP%20%284%29%20copia.jpg.jpg",
+    "nombreArchivo": "Wixarikas en Jalisco_JPAP (4) copia.jpg",
+    "titulo": "Wixarikas en Jalisco",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }, {
+    "id": "inali/imagenes/yutonahua/huichol/huicholdeleste/fotografias/huicholdeleste-Loteria_huichol_del_este_EAAJ_3.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390408/inali/imagenes/yutonahua/huichol/huicholdeleste/fotografias/huicholdeleste-Loteria_huichol_del_este_EAAJ_3.jpg.jpg",
+    "nombreArchivo": "Loteria_huichol_del_este_EAAJ_3.jpg",
+    "titulo": "Lotería",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/yutonahua/huichol/huicholdeleste/fotografias/huicholdeleste-Atuento_huichol del este_AEO_2.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390411/inali/imagenes/yutonahua/huichol/huicholdeleste/fotografias/huicholdeleste-Atuento_huichol%20del%20este_AEO_2.jpg.jpg",
+    "nombreArchivo": "Atuento_huichol del este_AEO_2.jpg",
+    "titulo": "Atuendo",
+    "creditos": "ALIN - Arnulfo Embriz Osorio"
+  }, {
+    "id": "inali/imagenes/yutonahua/huichol/huicholdeleste/fotografias/huicholdeleste-Migrantes en Jalisco_huichole del este_JPAP_6.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390412/inali/imagenes/yutonahua/huichol/huicholdeleste/fotografias/huicholdeleste-Migrantes%20en%20Jalisco_huichole%20del%20este_JPAP_6.jpg.jpg",
+    "nombreArchivo": "Migrantes en Jalisco_huichole del este_JPAP_6.jpg",
+    "titulo": "Migrantes en Jalisco",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }, {
+    "id": "inali/imagenes/yutonahua/huichol/huicholdeleste/fotografias/huicholdeleste-Migrantes en Jalisco_huichole del este_JPAP_3.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390413/inali/imagenes/yutonahua/huichol/huicholdeleste/fotografias/huicholdeleste-Migrantes%20en%20Jalisco_huichole%20del%20este_JPAP_3.jpg.jpg",
+    "nombreArchivo": "Migrantes en Jalisco_huichole del este_JPAP_3.jpg",
+    "titulo": "Migrantes en Jalisco",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }, {
+    "id": "inali/imagenes/yutonahua/huichol/huicholdeleste/fotografias/huicholdeleste-Migrantes en Jalisco_huichole del este_JPAP_7.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390414/inali/imagenes/yutonahua/huichol/huicholdeleste/fotografias/huicholdeleste-Migrantes%20en%20Jalisco_huichole%20del%20este_JPAP_7.jpg.jpg",
+    "nombreArchivo": "Migrantes en Jalisco_huichole del este_JPAP_7.jpg",
+    "titulo": "Migrantes en Jalisco",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }, {
+    "id": "inali/imagenes/yutonahua/nahuatl/nahuatldelahuastecaveracruzana/fotografias/nahuatldelahuastecaveracruzana-Mercado_nahuatl de la Huasteca veracruzana_EAAJ_11.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390411/inali/imagenes/yutonahua/nahuatl/nahuatldelahuastecaveracruzana/fotografias/nahuatldelahuastecaveracruzana-Mercado_nahuatl%20de%20la%20Huasteca%20veracruzana_EAAJ_11.jpg.jpg",
+    "nombreArchivo": "Mercado_nahuatl de la Huasteca veracruzana_EAAJ_11.jpg",
+    "titulo": "Mercado",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/yutonahua/nahuatl/nahuatldelahuastecaveracruzana/fotografias/nahuatldelahuastecaveracruzana-El_Costumbre_nahuatl de la Huasteca veracruzana_EAAJ_11.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390415/inali/imagenes/yutonahua/nahuatl/nahuatldelahuastecaveracruzana/fotografias/nahuatldelahuastecaveracruzana-El_Costumbre_nahuatl%20de%20la%20Huasteca%20veracruzana_EAAJ_11.jpg.jpg",
+    "nombreArchivo": "El_Costumbre_nahuatl de la Huasteca veracruzana_EAAJ_11.jpg",
+    "titulo": "El costumbre",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/yutonahua/nahuatl/nahuatlcentraldeveracruz/fotografias/nahuatlcentraldeveracruz-Vestimenta tradicional_nahuatl (central de Veracuz)_JPAP_2.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390410/inali/imagenes/yutonahua/nahuatl/nahuatlcentraldeveracruz/fotografias/nahuatlcentraldeveracruz-Vestimenta%20tradicional_nahuatl%20%28central%20de%20Veracuz%29_JPAP_2.jpg.jpg",
+    "nombreArchivo": "Vestimenta tradicional_nahuatl (central de Veracuz)_JPAP_2",
+    "titulo": "Vestimenta Tradicional",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }, {
+    "id": "inali/imagenes/yutonahua/nahuatl/nahuatlcentraldeveracruz/fotografias/nahuatlcentraldeveracruz-Vestimenta tradicional_nahuatl (central de Veracuz)_JPAP_3.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390413/inali/imagenes/yutonahua/nahuatl/nahuatlcentraldeveracruz/fotografias/nahuatlcentraldeveracruz-Vestimenta%20tradicional_nahuatl%20%28central%20de%20Veracuz%29_JPAP_3.jpg.jpg",
+    "nombreArchivo": "Vestimenta tradicional_nahuatl (central de Veracuz)_JPAP_2",
+    "titulo": "Vestimenta Tradicional",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }]
+}, {
+  "id": "cochimiyumana",
+  "fotografias": [{
+    "id": "inali/imagenes/cochimiyumana/paipai/paipai/fotografias/paipai-Aspectos identitarios_paipai_LIARM_4.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390406/inali/imagenes/cochimiyumana/paipai/paipai/fotografias/paipai-Aspectos%20identitarios_paipai_LIARM_4.jpg.jpg",
+    "nombreArchivo": "Aspectos identitarios_paipai_LIARM_4.jpg",
+    "titulo": "Aspectos identitarios",
+    "creditos": "ALIN - Laura Ita Andehui Ruiz Mondragón"
+  }, {
+    "id": "inali/imagenes/cochimiyumana/paipai/paipai/fotografias/paipai-Aspectos identitarios_paipai_LIARM_2.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390407/inali/imagenes/cochimiyumana/paipai/paipai/fotografias/paipai-Aspectos%20identitarios_paipai_LIARM_2.jpg.jpg",
+    "nombreArchivo": "Aspectos identitarios_paipai_LIARM_2.jpg",
+    "titulo": "Aspectos identitarios",
+    "creditos": "ALIN - Laura Ita Andehui Ruiz Mondragón"
+  }, {
+    "id": "inali/imagenes/cochimiyumana/paipai/paipai/fotografias/paipai-Revitalización_paipai_EAAJ_16.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390417/inali/imagenes/cochimiyumana/paipai/paipai/fotografias/paipai-Revitalizacio%CC%81n_paipai_EAAJ_16.jpg.jpg",
+    "nombreArchivo": "Revitalización_paipai_EAAJ_16.jpg",
+    "titulo": "Revitalización",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/cochimiyumana/kuahl/kuahl/fotografias/kuahl-Vida cotidiana_kuahl_LIARM_3.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390413/inali/imagenes/cochimiyumana/kuahl/kuahl/fotografias/kuahl-Vida%20cotidiana_kuahl_LIARM_3.jpg.jpg",
+    "nombreArchivo": "Vida cotidiana_kuahl_LIARM_3.jpg",
+    "titulo": "Vida Cotidiana",
+    "creditos": "ALIN - Laura Ita Andehui Ruiz Mondragón"
+  }, {
+    "id": "inali/imagenes/cochimiyumana/kumiai/kumiai/fotografias/kumiai-Difusión de lengua y cultura_kumiai_LIARM_1.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390413/inali/imagenes/cochimiyumana/kumiai/kumiai/fotografias/kumiai-Difusi%C3%B3n%20de%20lengua%20y%20cultura_kumiai_LIARM_1.jpg.jpg",
+    "nombreArchivo": "Difusión de lengua y cultura_kumiai_LIARM_1.jpg",
+    "titulo": "Difusión de la lengua y la cultura",
+    "creditos": "ALIN - Laura Ita Andehui Ruiz Mondragón"
+  }, {
+    "id": "inali/imagenes/cochimiyumana/kumiai/kumiai/fotografias/kumiai-Lotería_kumiai_AIAM_4.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390413/inali/imagenes/cochimiyumana/kumiai/kumiai/fotografias/kumiai-Loteri%CC%81a_kumiai_AIAM_4.jpg.jpg",
+    "nombreArchivo": "Lotería_kumiai_AIAM_4.jpg",
+    "titulo": "Lotería",
+    "creditos": "ALIN"
+  }, {
+    "id": "inali/imagenes/cochimiyumana/kumiai/kumiai/fotografias/kumiai-Difusión de la lengua y la cultura_kumiai_MLNM_2.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390415/inali/imagenes/cochimiyumana/kumiai/kumiai/fotografias/kumiai-Difusi%C3%B3n%20de%20la%20lengua%20y%20la%20cultura_kumiai_MLNM_2.jpg.jpg",
+    "nombreArchivo": "Difusión de la lengua y la cultura_kumiai_MLNM_2",
+    "titulo": "Difusión de la lengua y la cultura",
+    "creditos": "ALIN - María de Lourdes Nava Martínez"
+  }, {
+    "id": "inali/imagenes/cochimiyumana/kumiai/kumiai/fotografias/kumiai-KUMIAI_5.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390417/inali/imagenes/cochimiyumana/kumiai/kumiai/fotografias/kumiai-KUMIAI_5.jpg.jpg",
+    "nombreArchivo": "KUMIAI_5.jpg",
+    "titulo": "Kumiai",
+    "creditos": "ALIN"
+  }, {
+    "id": "inali/imagenes/cochimiyumana/kiliwa/kiliwa/fotografias/kiliwa-Vida cotidiana_kiliwa_LIARM_4.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390414/inali/imagenes/cochimiyumana/kiliwa/kiliwa/fotografias/kiliwa-Vida%20cotidiana_kiliwa_LIARM_4.jpg.jpg",
+    "nombreArchivo": "Vida cotidiana_kiliwa_LIARM_4.jpg",
+    "titulo": "Vida cotidiana",
+    "creditos": "ALIN - Laura Ita Andehui Ruiz Mondragón"
+  }, {
+    "id": "inali/imagenes/cochimiyumana/kiliwa/kiliwa/fotografias/kiliwa-Vida cotidiana_kiliwa_LIARM_1.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390424/inali/imagenes/cochimiyumana/kiliwa/kiliwa/fotografias/kiliwa-Vida%20cotidiana_kiliwa_LIARM_1.jpg.jpg",
+    "nombreArchivo": "Vida cotidiana_kiliwa_LIARM_1.jpg",
+    "titulo": "Vida cotidiana",
+    "creditos": "ALIN - Laura Ita Andehui Ruiz Mondragón"
+  }]
+}, {
+  "id": "seri",
+  "fotografias": [{
+    "id": "inali/imagenes/seri/fotografias/seri-Presentación libro_seri_EAAJ_1.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571385288/inali/imagenes/seri/fotografias/seri-Presentaci%C3%B3n%20libro_seri_EAAJ_1.jpg.jpg",
+    "nombreArchivo": "Presentación libro_seri_EAAJ_1.jpg",
+    "titulo": "Presentación de libro Seri",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/seri/fotografias/seri-Presentación libro_seri_EAAJ_2.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571385288/inali/imagenes/seri/fotografias/seri-Presentaci%C3%B3n%20libro_seri_EAAJ_2.jpg.jpg",
+    "nombreArchivo": "Presentación libro_seri_EAAJ_2.jpg",
+    "titulo": "Presentación de libro Seri",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/seri/fotografias/seri-Festival_seris_JPAP_8.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571385289/inali/imagenes/seri/fotografias/seri-Festival_seris_JPAP_8.jpg.jpg",
+    "nombreArchivo": "Festival_seris_JPAP_8.jpg",
+    "titulo": "Festival Seris",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }, {
+    "id": "inali/imagenes/seri/fotografias/seri-Festival_seris_JPAP_4.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571385290/inali/imagenes/seri/fotografias/seri-Festival_seris_JPAP_4.jpg.jpg",
+    "nombreArchivo": "Festival_seris_JPAP_4.jpg",
+    "titulo": "Festival Seris",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }, {
+    "id": "inali/imagenes/seri/fotografias/seri-Festival_seris_JPAP_7.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571385290/inali/imagenes/seri/fotografias/seri-Festival_seris_JPAP_7.jpg.jpg",
+    "nombreArchivo": "Festival_seris_JPAP_7.jpg",
+    "titulo": "Festival Seris",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }, {
+    "id": "inali/imagenes/seri/fotografias/seri-Festival_seris_JPAP_3.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571385290/inali/imagenes/seri/fotografias/seri-Festival_seris_JPAP_3.jpg.jpg",
+    "nombreArchivo": "Festival_seris_JPAP_3.jpg",
+    "titulo": "Festival Seris",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }]
+}, {
+  "id": "otomangue",
+  "fotografias": [{
+    "id": "inali/imagenes/otomangue/mazahua/fotografias/mazahua-Mujeres_mazahua de occidente_JPAP_2.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387789/inali/imagenes/otomangue/mazahua/fotografias/mazahua-Mujeres_mazahua%20de%20occidente_JPAP_2.jpg.jpg",
+    "nombreArchivo": "Mujeres_mazahua de occidente_JPAP_2.jpg",
+    "titulo": "Mujeres",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }, {
+    "id": "inali/imagenes/otomangue/mazahua/fotografias/mazahua-Mujeres_mazahua de occidente_JPAP_1.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387792/inali/imagenes/otomangue/mazahua/fotografias/mazahua-Mujeres_mazahua%20de%20occidente_JPAP_1.jpg.jpg",
+    "nombreArchivo": "Mujeres_mazahua de occidente_JPAP_1.jpg",
+    "titulo": "Mujeres",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }, {
+    "id": "inali/imagenes/otomangue/mazahua/fotografias/mazahua-Señalética_mazahua de occidente_EAAJ_01.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387793/inali/imagenes/otomangue/mazahua/fotografias/mazahua-Sen%CC%83ale%CC%81tica_mazahua%20de%20occidente_EAAJ_01.jpg.jpg",
+    "nombreArchivo": "Señalética_mazahua de occidente_EAAJ_01.jpg",
+    "titulo": "Señalética",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/mazahua/fotografias/mazahua-Bordado_mazahua de occidente_EAAJ_06.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387793/inali/imagenes/otomangue/mazahua/fotografias/mazahua-Bordado_mazahua%20de%20occidente_EAAJ_06.jpg.jpg",
+    "nombreArchivo": "Bordado_mazahua de occidente_EAAJ_06.jpg",
+    "titulo": "Bordado",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/mazahua/fotografias/mazahua-Señalética_mazahua de occidente_EAAJ_34.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387793/inali/imagenes/otomangue/mazahua/fotografias/mazahua-Sen%CC%83ale%CC%81tica_mazahua%20de%20occidente_EAAJ_34.jpg.jpg",
+    "nombreArchivo": "Señalética_mazahua de occidente_EAAJ_34.jpg",
+    "titulo": "Señalética",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/mazahua/fotografias/mazahua-Bordado_mazahua de occidente_EAAJ_17.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387794/inali/imagenes/otomangue/mazahua/fotografias/mazahua-Bordado_mazahua%20de%20occidente_EAAJ_17.jpg.jpg",
+    "nombreArchivo": "Bordado_mazahua de occidente_EAAJ_17.jpg",
+    "titulo": "Bordado",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Aspectos de vida cotidiana_matlatzincas_SJA_2.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387600/inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Aspectos%20de%20vida%20cotidiana_matlatzincas_SJA_2.jpg.jpg",
+    "nombreArchivo": "Aspectos de vida cotidiana_matlatzincas_SJA_2.jpg",
+    "titulo": "Aspectos de vida cotidiana",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Aspectos de vida cotidiana_matlatzincas_SJA_9.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387602/inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Aspectos%20de%20vida%20cotidiana_matlatzincas_SJA_9.jpg.jpg",
+    "nombreArchivo": "Aspectos de vida cotidiana_matlatzincas_SJA_9.jpg",
+    "titulo": "Aspectos de vida cotidiana",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Paisaje lingüístico_matlatzincas_DH_3.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387601/inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Paisaje%20ling%C3%BC%C3%ADstico_matlatzincas_DH_3.jpg.jpg",
+    "nombreArchivo": "Paisaje lingüístico_matlatzincas_DH_3.jpg",
+    "titulo": "Paisaje lingüístico",
+    "creditos": "ALIN - Daniel Hernández Díaz"
+  }, {
+    "id": "inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Paisaje lingüístico_matlatzincas_DH_4.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387605/inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Paisaje%20ling%C3%BC%C3%ADstico_matlatzincas_DH_4.jpg.jpg",
+    "nombreArchivo": "Paisaje lingüístico_matlatzincas_DH_4.jpg",
+    "titulo": "Paisaje lingüístico",
+    "creditos": "ALIN - Daniel Hernández Díaz"
+  }, {
+    "id": "inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Quinto_Sol_matlatzinca_EAAJ_2014_8.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387625/inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Quinto_Sol_matlatzinca_EAAJ_2014_8.jpg.jpg",
+    "nombreArchivo": "Quinto_Sol_matlatzinca_EAAJ_2014_8.jpg",
+    "titulo": "Quinto Sol",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Quinto_Sol_matlatzinca_EAAJ_2014_5.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387625/inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Quinto_Sol_matlatzinca_EAAJ_2014_5.jpg.jpg",
+    "nombreArchivo": "Quinto_Sol_matlatzinca_EAAJ_2014_5.jpg",
+    "titulo": "Quinto Sol",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Honguear_matlatzinca_MLNM_3.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387626/inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Honguear_matlatzinca_MLNM_3.jpg.jpg",
+    "nombreArchivo": "Honguear_matlatzinca_MLNM_3.jpg",
+    "titulo": "Honguear",
+    "creditos": "ALIN - María de Lourdes Nava Martínez"
+  }, {
+    "id": "inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Paisaje lingüistico_matlatzinca_MLNM_5.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387627/inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Paisaje%20lingu%CC%88istico_matlatzinca_MLNM_5.jpg.jpg",
+    "nombreArchivo": "Paisaje lingüistico_matlatzinca_MLNM_5.jpg",
+    "titulo": "Paisaje lingüistico",
+    "creditos": "ALIN - María de Lourdes Nava Martínez"
+  }, {
+    "id": "inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Honguear_matlatzinca_MLNM_1.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387626/inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Honguear_matlatzinca_MLNM_1.jpg.jpg",
+    "nombreArchivo": "Honguear_matlatzinca_MLNM_1.jpg",
+    "titulo": "Honguear",
+    "creditos": "ALIN - María de Lourdes Nava Martínez"
+  }, {
+    "id": "inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Paisaje lingüistico_matlatzinca_MLNM_2.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387625/inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Paisaje%20ling%C3%BCistico_matlatzinca_MLNM_2.jpg.jpg",
+    "nombreArchivo": "Paisaje lingüistico_matlatzinca_MLNM_2.jpg",
+    "titulo": "Paisaje lingüistico",
+    "creditos": "ALIN - María de Lourdes Nava Martínez"
+  }, {
+    "id": "inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Aspectos de vida cotidiana_matlatzincas_SJA_8.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387626/inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Aspectos%20de%20vida%20cotidiana_matlatzincas_SJA_8.jpg.jpg",
+    "nombreArchivo": "Aspectos de vida cotidiana_matlatzincas_SJA_8.jpg",
+    "titulo": "Aspectos de vida cotidiana",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Paisaje y arquitectura_matlatzinca_MLNM_5.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387790/inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Paisaje%20y%20arquitectura_matlatzinca_MLNM_5.jpg.jpg",
+    "nombreArchivo": "Paisaje y arquitectura_matlatzinca_MLNM_5.jpg",
+    "titulo": "Paisaje y arquitectura",
+    "creditos": "ALIN - María de Lourdes Nava Martínez"
+  }, {
+    "id": "inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Quinto_Sol_matlatzinca_EAAJ_2014_15.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387790/inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Quinto_Sol_matlatzinca_EAAJ_2014_15.jpg.jpg",
+    "nombreArchivo": "Quinto_Sol_matlatzinca_EAAJ_2014_15.jpg",
+    "titulo": "Quinto Sol",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Quinto_Sol_matlatzinca_EAAJ_2014_13.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387792/inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Quinto_Sol_matlatzinca_EAAJ_2014_13.jpg.jpg",
+    "nombreArchivo": "Quinto_Sol_matlatzinca_EAAJ_2014_13.jpg",
+    "titulo": "Quinto Sol",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Cocina_matlatzinca_EAAJ_2014_21.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387793/inali/imagenes/otomangue/matlatzinca/fotografias/matlatzinca-Cocina_matlatzinca_EAAJ_2014_21.jpg.jpg",
+    "nombreArchivo": "Cocina_matlatzinca_EAAJ_2014_21.jpg",
+    "titulo": "Cocina",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/tlahuica/fotografias/tlahuica-Revitalización_tlahuica_MLNM_3.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387626/inali/imagenes/otomangue/tlahuica/fotografias/tlahuica-Revitalizacio%CC%81n_tlahuica_MLNM_3.jpg.jpg",
+    "nombreArchivo": "Revitalización_tlahuica_MLNM_3.jpg",
+    "titulo": "Revitalización",
+    "creditos": "ALIN - María de Lourdes Nava Martínez"
+  }, {
+    "id": "inali/imagenes/otomangue/tlahuica/fotografias/tlahuica-Festival_tlahuica_EAAJ_8.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387627/inali/imagenes/otomangue/tlahuica/fotografias/tlahuica-Festival_tlahuica_EAAJ_8.jpg.jpg",
+    "nombreArchivo": "Festival_tlahuica_EAAJ_8.jpg",
+    "titulo": "Festival",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/tlahuica/fotografias/tlahuica-Festival_tlahuica_MLNM_6.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387627/inali/imagenes/otomangue/tlahuica/fotografias/tlahuica-Festival_tlahuica_MLNM_6.jpg.jpg",
+    "nombreArchivo": "Festival_tlahuica_MLNM_6.jpg",
+    "titulo": "Festival",
+    "creditos": "ALIN - María de Lourdes Nava Martínez"
+  }, {
+    "id": "inali/imagenes/otomangue/tlahuica/fotografias/tlahuica-Revitalización_tlahuica_MLNM_1.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387789/inali/imagenes/otomangue/tlahuica/fotografias/tlahuica-Revitalizaci%C3%B3n_tlahuica_MLNM_1.jpg.jpg",
+    "nombreArchivo": "Revitalización_tlahuica_MLNM_1.jpg",
+    "titulo": "Revitalización",
+    "creditos": "ALIN - María de Lourdes Nava Martínez"
+  }, {
+    "id": "inali/imagenes/otomangue/tlahuica/fotografias/tlahuica-Festival_tlahuica_EAAJ_19.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387627/inali/imagenes/otomangue/tlahuica/fotografias/tlahuica-Festival_tlahuica_EAAJ_19.jpg.jpg",
+    "nombreArchivo": "Festival_tlahuica_EAAJ_19.jpg",
+    "titulo": "Festival",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/tlahuica/fotografias/tlahuica-Honguear_tlahuica_EAAJ_7.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387789/inali/imagenes/otomangue/tlahuica/fotografias/tlahuica-Honguear_tlahuica_EAAJ_7.jpg.jpg",
+    "nombreArchivo": "Honguear_tlahuica_EAAJ_7.jpg",
+    "titulo": "Honguear",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/chinanteco/fotografias/chinanteco-Paisaje_a_Ojitlan_chinanteco_del_norte_EAAJ_4.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387599/inali/imagenes/otomangue/chinanteco/fotografias/chinanteco-Paisaje_a_Ojitlan_chinanteco_del_norte_EAAJ_4.jpg.jpg",
+    "nombreArchivo": "Paisaje_a_Ojitlan_chinanteco_del_norte_EAAJ_4.jpg",
+    "titulo": "Paisaje a Ojitlan",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/chinanteco/fotografias/chinanteco-San_Lucas_Ojitlan_chinanteco_del_norte_EAAJ_7.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387604/inali/imagenes/otomangue/chinanteco/fotografias/chinanteco-San_Lucas_Ojitlan_chinanteco_del_norte_EAAJ_7.jpg.jpg",
+    "nombreArchivo": "San_Lucas_Ojitlan_chinanteco_del_norte_EAAJ_7.jpg",
+    "titulo": "San Lucas Ojitlan",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/chinanteco/fotografias/chinanteco-Paisaje_a_Ojitlan_chinanteco_del_norte_EAAJ_5.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387626/inali/imagenes/otomangue/chinanteco/fotografias/chinanteco-Paisaje_a_Ojitlan_chinanteco_del_norte_EAAJ_5.jpg.jpg",
+    "nombreArchivo": "Paisaje_a_Ojitlan_chinanteco_del_norte_EAAJ_5.jpg",
+    "titulo": "Paisaje a Ojitlan",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Cómo nos vemos a través de los años_Zapoteco de San Bartolo Yautepec_RMRT_(11).jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387601/inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-C%C3%B3mo%20nos%20vemos%20a%20trav%C3%A9s%20de%20los%20a%C3%B1os_Zapoteco%20de%20San%20Bartolo%20Yautepec_RMRT_%2811%29.jpg.jpg",
+    "nombreArchivo": "Cómo nos vemos a través de los años_Zapoteco de San Bartolo Yautepec_RMRT_(11).jpg",
+    "titulo": "¿Cómo nos vemos a través de los años?",
+    "creditos": "INALI"
+  }, {
+    "id": "inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Cómo nos vemos a través de los años_Zapoteco de San Bartolo Yautepec_RMRT_(8).jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387600/inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-C%C3%B3mo%20nos%20vemos%20a%20trav%C3%A9s%20de%20los%20a%C3%B1os_Zapoteco%20de%20San%20Bartolo%20Yautepec_RMRT_%288%29.jpg.jpg",
+    "nombreArchivo": "Cómo nos vemos a través de los años_Zapoteco de San Bartolo Yautepec_RMRT_(8).jpg",
+    "titulo": "¿Cómo nos vemos a través de los años?",
+    "creditos": "INALI"
+  }, {
+    "id": "inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Cómo nos vemos a través de los años_Zapoteco de San Bartolo Yautepec_RMRT_(10).jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387604/inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-C%C3%B3mo%20nos%20vemos%20a%20trav%C3%A9s%20de%20los%20a%C3%B1os_Zapoteco%20de%20San%20Bartolo%20Yautepec_RMRT_%2810%29.jpg.jpg",
+    "nombreArchivo": "Cómo nos vemos a través de los años_Zapoteco de San Bartolo Yautepec_RMRT_(10).jpg",
+    "titulo": "¿Cómo nos vemos a través de los años?",
+    "creditos": "INALI"
+  }, {
+    "id": "inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Aspectos identitarios_zapoteco serrano del noroeste bajo_NMP_1.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387627/inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Aspectos%20identitarios_zapoteco%20serrano%20del%20noroeste%20bajo_NMP_1.jpg.jpg",
+    "nombreArchivo": "Aspectos identitarios_zapoteco serrano del noroeste bajo_NMP_1.jpg",
+    "titulo": "Aspectos identitarios",
+    "creditos": "ALIN - Nelson Martínez Pérez"
+  }, {
+    "id": "inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Aspectos identitarios_zapoteco serrano del noroeste bajo_NMP_10.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387628/inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Aspectos%20identitarios_zapoteco%20serrano%20del%20noroeste%20bajo_NMP_10.jpg.jpg",
+    "nombreArchivo": "Aspectos identitarios_zapoteco serrano del noroeste bajo_NMP_10.jpg",
+    "titulo": "Aspectos identitarios",
+    "creditos": "ALIN - Nelson Martínez Pérez"
+  }, {
+    "id": "inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Aspectos identitarios_zapoteco serrano del noroeste bajo_NMP_5.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387789/inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Aspectos%20identitarios_zapoteco%20serrano%20del%20noroeste%20bajo_NMP_5.jpg.jpg",
+    "nombreArchivo": "Aspectos identitarios_zapoteco serrano del noroeste bajo_NMP_5.jpg",
+    "titulo": "Aspectos identitarios",
+    "creditos": "ALIN - Nelson Martínez Pérez"
+  }, {
+    "id": "inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Aspectos identitarios_zapoteco serrano del noroeste bajo_NMP_3.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387789/inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Aspectos%20identitarios_zapoteco%20serrano%20del%20noroeste%20bajo_NMP_3.jpg.jpg",
+    "nombreArchivo": "Aspectos identitarios_zapoteco serrano del noroeste bajo_NMP_3.jpg",
+    "titulo": "Aspectos identitarios",
+    "creditos": "ALIN - Nelson Martínez Pérez"
+  }, {
+    "id": "inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Aspectos identitarios_zapoteco serrano del noroeste bajo_NMP_9.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387788/inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Aspectos%20identitarios_zapoteco%20serrano%20del%20noroeste%20bajo_NMP_9.jpg.jpg",
+    "nombreArchivo": "Aspectos identitarios_zapoteco serrano del noroeste bajo_NMP_9.jpg",
+    "titulo": "Aspectos identitarios",
+    "creditos": "ALIN - Nelson Martínez Pérez"
+  }, {
+    "id": "inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Arquitectura_zapoteco de San Bartolo Yautepec_EAAJ_3.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387792/inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Arquitectura_zapoteco%20de%20San%20Bartolo%20Yautepec_EAAJ_3.jpg.jpg",
+    "nombreArchivo": "Arquitectura_zapoteco de San Bartolo Yautepec_EAAJ_3.jpg",
+    "titulo": "Arquitectura",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Arquitectura_zapoteco de San Bartolo Yautepec_EAAJ_1.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387793/inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Arquitectura_zapoteco%20de%20San%20Bartolo%20Yautepec_EAAJ_1.jpg.jpg",
+    "nombreArchivo": "Arquitectura_zapoteco de San Bartolo Yautepec_EAAJ_1.jpg",
+    "titulo": "Arquitectura",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Festival_zapoteco de la planicie costera_JPAP_2.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387793/inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Festival_zapoteco%20de%20la%20planicie%20costera_JPAP_2.jpg.jpg",
+    "nombreArchivo": "Festival_zapoteco de la planicie costera_JPAP_2.jpg",
+    "titulo": "Festival",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }, {
+    "id": "inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Festival_zapoteco de la planicie costera_JPAP_5.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387794/inali/imagenes/otomangue/zapoteco/fotografias/zapoteco-Festival_zapoteco%20de%20la%20planicie%20costera_JPAP_5.jpg.jpg",
+    "nombreArchivo": "Festival_zapoteco de la planicie costera_JPAP_5.jpg",
+    "titulo": "Festival",
+    "creditos": "ALIN - Juan Pablo Almorín Peralta"
+  }, {
+    "id": "inali/imagenes/otomangue/amuzgo/fotografias/amuzgo-Escuela_amuzgo_50_50_amuzgo_del_norte_EAAJ_15.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387793/inali/imagenes/otomangue/amuzgo/fotografias/amuzgo-Escuela_amuzgo_50_50_amuzgo_del_norte_EAAJ_15.jpg.jpg",
+    "nombreArchivo": "Escuela_amuzgo_50_50_amuzgo_del_norte_EAAJ_15.jpg",
+    "titulo": "Escuela",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/amuzgo/fotografias/amuzgo-Escuela_amuzgo_50_50_amuzgo_del_norte_EAAJ_5.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387793/inali/imagenes/otomangue/amuzgo/fotografias/amuzgo-Escuela_amuzgo_50_50_amuzgo_del_norte_EAAJ_5.jpg.jpg",
+    "nombreArchivo": "Escuela_amuzgo_50_50_amuzgo_del_norte_EAAJ_5.jpg",
+    "titulo": "Escuela",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/amuzgo/fotografias/amuzgo-Cocina_amuzgo_amuzgo_del_norte_EAAJ_1.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387792/inali/imagenes/otomangue/amuzgo/fotografias/amuzgo-Cocina_amuzgo_amuzgo_del_norte_EAAJ_1.jpg.jpg",
+    "nombreArchivo": "Cocina_amuzgo_amuzgo_del_norte_EAAJ_1.jpg",
+    "titulo": "Cocina",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/amuzgo/fotografias/amuzgo-Hilando_la_memoria_amuzgo_del_norte_EAAJ_1.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387794/inali/imagenes/otomangue/amuzgo/fotografias/amuzgo-Hilando_la_memoria_amuzgo_del_norte_EAAJ_1.jpg.jpg",
+    "nombreArchivo": "Hilando_la_memoria_amuzgo_del_norte_EAAJ_1.jpg",
+    "titulo": "Hilando la memoria",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/mixteco/fotografias/mixteco-Dia_de_Sta_Cecilia,_en_San_Juan_Mixtepec,_Oaxaca_04-05-2010.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387791/inali/imagenes/otomangue/mixteco/fotografias/mixteco-Dia_de_Sta_Cecilia%2C_en_San_Juan_Mixtepec%2C_Oaxaca_04-05-2010.jpg.jpg",
+    "nombreArchivo": "Dia_de_Sta_Cecilia,_en_San_Juan_Mixtepec,_Oaxaca_04-05-2010.jpg",
+    "titulo": "Dia de Sta Cecilia, en San Juan Mixtepec",
+    "creditos": "ALIN - Bernardo Galindo Sánchez"
+  }, {
+    "id": "inali/imagenes/otomangue/mixteco/fotografias/mixteco-Día_de_Sta_Cecilia,_en_San_Juan_Mixtepec,_Oaxaca,_Día__06-05-2010.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387792/inali/imagenes/otomangue/mixteco/fotografias/mixteco-D%C3%ADa_de_Sta_Cecilia%2C_en_San_Juan_Mixtepec%2C_Oaxaca%2C_D%C3%ADa__06-05-2010.jpg.jpg",
+    "nombreArchivo": "Día_de_Sta_Cecilia,_en_San_Juan_Mixtepec,_Oaxaca,_Día__06-05-2010.jpg",
+    "titulo": "Dia de Sta Cecilia, en San Juan Mixtepec",
+    "creditos": "ALIN - Bernardo Galindo Sánchez"
+  }, {
+    "id": "inali/imagenes/otomangue/mixteco/fotografias/mixteco-Danza_Mixtecos del oeste de la costa_EAAJ_17.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387793/inali/imagenes/otomangue/mixteco/fotografias/mixteco-Danza_Mixtecos%20del%20oeste%20de%20la%20costa_EAAJ_17.jpg.jpg",
+    "nombreArchivo": "Danza_Mixtecos del oeste de la costa_EAAJ_17.jpg",
+    "titulo": "Danza",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/mixteco/fotografias/mixteco-Cocina_Mixtecos del oeste de la costa_EAAJ_6.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387793/inali/imagenes/otomangue/mixteco/fotografias/mixteco-Cocina_Mixtecos%20del%20oeste%20de%20la%20costa_EAAJ_6.jpg.jpg",
+    "nombreArchivo": "Cocina_Mixtecos del oeste de la costa_EAAJ_6.jpg",
+    "titulo": "Cocina",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/mixteco/fotografias/mixteco-Mayordomos_del_dia_de_Sta_Cecilia,_en_San_Juan_Mixtepec,_Oaxaca_06-05-2010.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387792/inali/imagenes/otomangue/mixteco/fotografias/mixteco-Mayordomos_del_dia_de_Sta_Cecilia%2C_en_San_Juan_Mixtepec%2C_Oaxaca_06-05-2010.jpg.jpg",
+    "nombreArchivo": "Mayordomos_del_dia_de_Sta_Cecilia,_en_San_Juan_Mixtepec,_Oaxaca_06-05-2010.jpg",
+    "titulo": "Mayordomos del dia de Sta Cecilia, en San Juan Mixtepec",
+    "creditos": "ALIN - Bernardo Galindo Sánchez"
+  }, {
+    "id": "inali/imagenes/otomangue/mixteco/fotografias/mixteco-Presentacion_Mixtecos del oeste de la costa_EAAJ_6.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387793/inali/imagenes/otomangue/mixteco/fotografias/mixteco-Presentacion_Mixtecos%20del%20oeste%20de%20la%20costa_EAAJ_6.jpg.jpg",
+    "nombreArchivo": "Presentacion_Mixtecos del oeste de la costa_EAAJ_6.jpg",
+    "titulo": "Presentacion",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/otomangue/triqui/fotografias/triqui-Taller lengua_triqui_MLNM_11.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387627/inali/imagenes/otomangue/triqui/fotografias/triqui-Taller%20lengua_triqui_MLNM_11.jpg.jpg",
+    "nombreArchivo": "Taller lengua_triqui_MLNM_11.jpg",
+    "titulo": "Taller de lengua",
+    "creditos": "ALIN - María de Lourdes Nava Martínez"
+  }, {
+    "id": "inali/imagenes/otomangue/triqui/fotografias/triqui-Artesana_triqui_MLNM_2.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387794/inali/imagenes/otomangue/triqui/fotografias/triqui-Artesana_triqui_MLNM_2.jpg.jpg",
+    "nombreArchivo": "Artesana_triqui_MLNM_2.jpg",
+    "titulo": "Artesana",
+    "creditos": "ALIN - María de Lourdes Nava Martínez"
+  }]
+}, {
+  "id": "maya",
+  "fotografias": []
+}, {
+  "id": "totonacotepehua",
+  "fotografias": []
+}, {
+  "id": "tarasca",
+  "fotografias": [{
+    "id": "inali/imagenes/tarasca/tarasco/pue‚pecha/fotografias/pue‚pecha-Paisaje y casas_purepecha_AEO_3.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390409/inali/imagenes/tarasca/tarasco/pue%E2%80%9Apecha/fotografias/pue%E2%80%9Apecha-Paisaje%20y%20casas_purepecha_AEO_3.jpg.jpg",
+    "nombreArchivo": "Paisaje y casas_purepecha_AEO_3.jpg",
+    "titulo": "Paisaje y casas",
+    "creditos": "ALIN - Arnulfo Embriz Osorio"
+  }, {
+    "id": "inali/imagenes/tarasca/tarasco/pue‚pecha/fotografias/pue‚pecha-Paisaje y casas_purepecha_AEO_1.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390408/inali/imagenes/tarasca/tarasco/pue%E2%80%9Apecha/fotografias/pue%E2%80%9Apecha-Paisaje%20y%20casas_purepecha_AEO_1.jpg.jpg",
+    "nombreArchivo": "Paisaje y casas_purepecha_AEO_1.jpg",
+    "titulo": "Paisaje y casas",
+    "creditos": "ALIN - Arnulfo Embriz Osorio"
+  }, {
+    "id": "inali/imagenes/tarasca/tarasco/pue‚pecha/fotografias/pue‚pecha-Paisaje lingüístico_purepecha_LIARM_3.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390413/inali/imagenes/tarasca/tarasco/pue%E2%80%9Apecha/fotografias/pue%E2%80%9Apecha-Paisaje%20ling%C3%BC%C3%ADstico_purepecha_LIARM_3.jpg.jpg",
+    "nombreArchivo": "Paisaje lingüístico_purepecha_LIARM_3.jpg",
+    "titulo": "Paisaje lingüístico",
+    "creditos": "ALIN - Laura Ita Andehui Ruiz Mondragón"
+  }, {
+    "id": "inali/imagenes/tarasca/tarasco/pue‚pecha/fotografias/pue‚pecha-Paisaje lingüístico_purepecha_LIARM_7.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390414/inali/imagenes/tarasca/tarasco/pue%E2%80%9Apecha/fotografias/pue%E2%80%9Apecha-Paisaje%20ling%C3%BC%C3%ADstico_purepecha_LIARM_7.jpg.jpg",
+    "nombreArchivo": "Paisaje lingüístico_purepecha_LIARM_7.jpg",
+    "titulo": "Paisaje lingüístico",
+    "creditos": "ALIN - Laura Ita Andehui Ruiz Mondragón"
+  }]
+}, {
+  "id": "mixezoque",
+  "fotografias": [{
+    "id": "inali/imagenes/mixezoque/mixe/fotografias/mixe-Lotería_mixe alto del centro_AEO_1.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387604/inali/imagenes/mixezoque/mixe/fotografias/mixe-Loter%C3%ADa_mixe%20alto%20del%20centro_AEO_1.jpg.jpg",
+    "nombreArchivo": "Lotería_mixe alto del centro_AEO_1.jpg",
+    "titulo": "Lotería",
+    "creditos": "ALIN - Arnulfo Embriz Osorio"
+  }, {
+    "id": "inali/imagenes/mixezoque/sayulteco/fotografias/sayulteco-Artes y artesanías_sayulteco_EAAJ_10.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387600/inali/imagenes/mixezoque/sayulteco/fotografias/sayulteco-Artes%20y%20artesan%C3%ADas_sayulteco_EAAJ_10.jpg.jpg",
+    "nombreArchivo": "Artes y artesanías_sayulteco_EAAJ_10.jpg",
+    "titulo": "Artes y artesanías",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/mixezoque/sayulteco/fotografias/sayulteco-Artes y artesanías_sayulteco_EAAJ_16.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387601/inali/imagenes/mixezoque/sayulteco/fotografias/sayulteco-Artes%20y%20artesani%CC%81as_sayulteco_EAAJ_16.jpg.jpg",
+    "nombreArchivo": "Artes y artesanías_sayulteco_EAAJ_16.jpg",
+    "titulo": "Artes y artesanías",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/mixezoque/sayulteco/fotografias/sayulteco-Artes y artesanías_sayulteco_EAAJ_4.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387600/inali/imagenes/mixezoque/sayulteco/fotografias/sayulteco-Artes%20y%20artesan%C3%ADas_sayulteco_EAAJ_4.jpg.jpg",
+    "nombreArchivo": "Artes y artesanías_sayulteco_EAAJ_4.jpg",
+    "titulo": "Artes y artesanías",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/mixezoque/oluteco/fotografias/oluteco-Revitalización_oluteco_EAAJ_7.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387599/inali/imagenes/mixezoque/oluteco/fotografias/oluteco-Revitalizacio%CC%81n_oluteco_EAAJ_7.jpg.jpg",
+    "nombreArchivo": "Revitalización_oluteco_EAAJ_7.jpg",
+    "titulo": "Revitalización",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/mixezoque/oluteco/fotografias/oluteco-Revitalización_oluteco_EAAJ_14.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387601/inali/imagenes/mixezoque/oluteco/fotografias/oluteco-Revitalizacio%CC%81n_oluteco_EAAJ_14.jpg.jpg",
+    "nombreArchivo": "Revitalización_oluteco_EAAJ_14.jpg",
+    "titulo": "Revitalización",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/mixezoque/oluteco/oluteco/fotografias/oluteco-POPOLUCA DE OLUTA.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390408/inali/imagenes/mixezoque/oluteco/oluteco/fotografias/oluteco-POPOLUCA%20DE%20OLUTA.jpg.jpg",
+    "nombreArchivo": "POPOLUCA DE OLUTA.jpg",
+    "titulo": "Popoluca de Oluta",
+    "creditos": "ALIN - Salomé Gutiérrez"
+  }, {
+    "id": "inali/imagenes/mixezoque/texistepequeno/fotografias/texistepequeno-POPOLUCA DE TEXISTEPEC.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387623/inali/imagenes/mixezoque/texistepequeno/fotografias/texistepequeno-POPOLUCA%20DE%20TEXISTEPEC.jpg.jpg",
+    "nombreArchivo": "POPOLUCA DE TEXISTEPEC.jpg",
+    "titulo": "Popoluca de Texistepec",
+    "creditos": "ALIN - Salomé Gutiérrez"
+  }, {
+    "id": "inali/imagenes/mixezoque/ayapaneco/fotografias/ayapaneco-Ayapanecos_en_la_ciudad_ayapaneco_EAAJ_9.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387603/inali/imagenes/mixezoque/ayapaneco/fotografias/ayapaneco-Ayapanecos_en_la_ciudad_ayapaneco_EAAJ_9.jpg.jpg",
+    "nombreArchivo": "Ayapanecos_en_la_ciudad_ayapaneco_EAAJ_9.jpg",
+    "titulo": "Ayapanecos en la ciudad",
+    "creditos": "ALIN - Erika Alejandra Álvarez Juárez"
+  }, {
+    "id": "inali/imagenes/mixezoque/popolucadelasierra/fotografias/popolucadelasierra-Visita a la ciudad_popoluca de la sierra_AEO_3.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571387605/inali/imagenes/mixezoque/popolucadelasierra/fotografias/popolucadelasierra-Visita%20a%20la%20ciudad_popoluca%20de%20la%20sierra_AEO_3.jpg.jpg",
+    "nombreArchivo": "Visita a la ciudad_popoluca de la sierra_AEO_3.jpg",
+    "titulo": "Visita a la ciudad",
+    "creditos": "ALIN - Arnulfo Embriz Osorio"
+  }]
+}, {
+  "id": "chontaldeoaxaca",
+  "fotografias": []
+}, {
+  "id": "huave",
+  "fotografias": [{
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_11.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390406/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_11.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_11.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_10.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390406/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_10.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_10.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_18.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390407/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_18.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_18.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_19.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390406/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_19.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_19.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_20.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390407/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_20.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_20.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_16.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390407/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_16.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_16.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_4.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390407/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_4.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_4.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_5.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390407/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_5.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_5.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_21.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390407/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_21.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_21.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_15.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390408/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_15.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_15.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_9.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390408/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_9.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_9.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_14.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390408/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_14.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_14.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_6.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390409/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_6.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_6.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_13.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390409/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_13.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_13.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_3.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390409/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_3.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_3.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }, {
+    "id": "inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura identidad cultura_huave del oeste_SJA_1.jpg",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571390415/inali/imagenes/huave/huave/huavedeloeste/fotografias/huavedeloeste-Arquitectura%20identidad%20cultura_huave%20del%20oeste_SJA_1.jpg.jpg",
+    "nombreArchivo": "Arquitectura identidad cultura_huave del oeste_SJA_1.jpg",
+    "titulo": "Arquitectura identidad y cultura",
+    "creditos": "ALIN - Salvador Jaramillo Aguilar"
+  }]
+}]
